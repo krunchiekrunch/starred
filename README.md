@@ -95,16 +95,10 @@
 - [rauchg/doom-captcha](https://github.com/rauchg/doom-captcha) - 
 - [shaoxiongduan/sci-calc](https://github.com/shaoxiongduan/sci-calc) - software and firmware for a esp32-based scientific calculator
 - [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
-- [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
-- [Nilsen84/lunar-client-qt](https://github.com/Nilsen84/lunar-client-qt) - Lightweight launcher for lunar client
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
-- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 
 ## CSS 
 
-- [hackclub/bakebuild](https://github.com/hackclub/bakebuild) - 
 - [syvrrr/idk](https://github.com/syvrrr/idk) - 
-- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [tholman/one-square-minesweeper](https://github.com/tholman/one-square-minesweeper) - A game of minesweeper with only one square to sweep. Fun for the whole family.
 
 ## Dockerfile 
@@ -406,7 +400,6 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
 - [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [WorldEditAxe/eaglerproxy](https://github.com/WorldEditAxe/eaglerproxy) - A standalone implemention of the BungeeCord plugin for EaglercraftX, now with online vanilla server support!
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
