@@ -68,7 +68,6 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [open-source](#open-source)
-- [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
 - [privacy](#privacy)
@@ -76,7 +75,6 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
-- [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -175,7 +173,6 @@
 ## cpp 
 
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
-- [Nilsen84/lunar-client-qt](https://github.com/Nilsen84/lunar-client-qt) - Lightweight launcher for lunar client
 
 ## cryptography 
 
@@ -217,7 +214,6 @@
 
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
 ## education 
@@ -372,10 +368,7 @@
 - [spawnmason/randar-explanation](https://github.com/spawnmason/randar-explanation) - "Randar" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to l
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [Nilsen84/lunar-client-qt](https://github.com/Nilsen84/lunar-client-qt) - Lightweight launcher for lunar client
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
-- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 
 ## mobile 
@@ -425,10 +418,6 @@
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
-
-## openai 
-
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
 ## operating-system 
 
@@ -531,7 +520,6 @@
 - [chrismyers2000/MeshAdventurer](https://github.com/chrismyers2000/MeshAdventurer) - MeshAdventurer is hardware for Meshtastic with Off-Road use in mind
 - [femtofox/Femtofox_Community_Hardware](https://github.com/femtofox/Femtofox_Community_Hardware) - Hardware for the Femtofox - Community Hardware.
 - [EvanKrall/pipad](https://github.com/EvanKrall/pipad) - A PCB for putting a Raspberry Pi CM4 inside a 1st-generation iPad.
-- [hackclub/bakebuild](https://github.com/hackclub/bakebuild) - 
 - [ThomDyson/ESP32_adsb_display](https://github.com/ThomDyson/ESP32_adsb_display) - 
 - [krunchiekrunch/skadis-meshtastic](https://github.com/krunchiekrunch/skadis-meshtastic) - A container to store a Meshtastic node, 2 antenna and a 18650 battery, compatilable with IKEA SKÅDIS pegboard - Designed with OnShape
 - [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
@@ -606,7 +594,6 @@
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [vinceliuice/Tela-circle-icon-theme](https://github.com/vinceliuice/Tela-circle-icon-theme) - Tela-circle-icon-theme
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
-- [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
 - [tmquan2508/Q-bot-afk](https://github.com/tmquan2508/Q-bot-afk) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
@@ -628,7 +615,6 @@
 - [FrankSalad/spot-the-drowning-child](https://github.com/FrankSalad/spot-the-drowning-child) - Lifeguarding Game
 - [Ariakim-Taiyo/GeoFs-737-Immersion-SFX](https://github.com/Ariakim-Taiyo/GeoFs-737-Immersion-SFX) - Improves the realism of the default 737 with new sounds
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - Provides an improved webinterface for use with ADS-B decoders readsb / dump1090-fa
-- [FlightGear/flightgear](https://github.com/FlightGear/flightgear) - Mirror: FlightGear - Open source flight sim
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [krunchiekrunch/Resent4-Patch4](https://github.com/krunchiekrunch/Resent4-Patch4) - Resent Client 4.0 Patch 4
 - [krunchiekrunch/shadowclient](https://github.com/krunchiekrunch/shadowclient) - 
@@ -686,10 +672,6 @@
 - [thejoabo/autofishbot](https://github.com/thejoabo/autofishbot) - Auto Fishing Bot made in Python 3 for Virtual Fisher Discord Bot.
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 
-## qt 
-
-- [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
-
 ## raspberry-pi 
 
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
@@ -702,7 +684,6 @@
 - [splitbrain/rpibplusleaf](https://github.com/splitbrain/rpibplusleaf) - Raspberry Pi B+ Pinout Leaf
 - [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
-- [MCPI-Revival/minecraft-pi-reborn](https://github.com/MCPI-Revival/minecraft-pi-reborn) - Official Mirror Of @TheBrokenRail's Minecraft: Pi Edition: Reborn.
 
 ## react 
 
