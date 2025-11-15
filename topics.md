@@ -425,6 +425,7 @@
 
 ## others 
 
+- [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly inst
 - [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
