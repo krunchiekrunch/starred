@@ -248,6 +248,7 @@
 
 ## Others 
 
+- [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
 - [jonny12375/rp3a0](https://github.com/jonny12375/rp3a0) - Reverse engineering the RP3A0 SoC from the Raspberry Pi Zero 2W
