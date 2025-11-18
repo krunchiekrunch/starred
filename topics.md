@@ -586,7 +586,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [wiedehopf/readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [usgraphics/usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report
 - [adsb-related-code/dump1090-mutability](https://github.com/adsb-related-code/dump1090-mutability) - 
 - [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
