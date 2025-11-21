@@ -679,7 +679,7 @@
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [jackw01/pi-tin](https://github.com/jackw01/pi-tin) - Open source raspberry pi handheld retro gaming console
-- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - ECP5 FPGA Dev Board in a Pi Zero form
+- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Raspberry Pi 5 performance monitoring dashboard using Flask, Chart.js, and Socket.IO
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
