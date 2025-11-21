@@ -122,7 +122,7 @@
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
 - [vapetrov/microSD_express_Pi](https://github.com/vapetrov/microSD_express_Pi) - 
 - [jackw01/pi-tin](https://github.com/jackw01/pi-tin) - Open source raspberry pi handheld retro gaming console
-- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - ECP5 FPGA Dev Board in a Pi Zero form
+- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
 - [valzzu/meshtastic-pcbs](https://github.com/valzzu/meshtastic-pcbs) - PCBs i've made for meshtastic
 - [EvanKrall/pipad](https://github.com/EvanKrall/pipad) - A PCB for putting a Raspberry Pi CM4 inside a 1st-generation iPad.
