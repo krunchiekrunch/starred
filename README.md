@@ -118,7 +118,7 @@
 
 ## HTML 
 
-- [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - USB-C RTL-SDR V3/V4 dongle mod
+- [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
 - [vapetrov/microSD_express_Pi](https://github.com/vapetrov/microSD_express_Pi) - 
