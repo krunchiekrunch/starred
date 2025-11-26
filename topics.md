@@ -42,6 +42,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [gradle](#gradle)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
@@ -267,6 +268,10 @@
 ## gradle 
 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
+
+## gui 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
 ## hacking 
 
