@@ -53,7 +53,6 @@
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
 - [PocketConcepts/Solar_nRF](https://github.com/PocketConcepts/Solar_nRF) - Solar BPW34 powered nRF BLE
 - [machdyne/blaustahl](https://github.com/machdyne/blaustahl) - Blaustahl Storage Device
-- [chromalock/TI-32](https://github.com/chromalock/TI-32) - A wireless mod for the TI-84 (not CE).
 - [wehooper4/Meshtastic-Hardware](https://github.com/wehooper4/Meshtastic-Hardware) - Meshtastic Hardware designs
 - [Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module](https://github.com/Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module) - 
 - [bitluni/Mdot2Matrix](https://github.com/bitluni/Mdot2Matrix) - 
@@ -107,6 +106,7 @@
 
 ## Go 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [yegors/co-atc](https://github.com/yegors/co-atc) - Air traffic control simulator that leverages local SDRs for ADSB telemetry and VHF coms with optional "AI based capabilities"
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [DuroCodes/doubloonz](https://github.com/DuroCodes/doubloonz) - high seas prize calculator
@@ -157,6 +157,7 @@
 
 ## JavaScript 
 
+- [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [krunchiekrunch/krunch-is-a-dev](https://github.com/krunchiekrunch/krunch-is-a-dev) - My old profile site, made with React JS
 - [krunchiekrunch/terminal-profile](https://github.com/krunchiekrunch/terminal-profile) - An interactive terminal styled profile site built with ReactJS.
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
@@ -299,6 +300,7 @@
 
 ## Python 
 
+- [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
 - [Neradoc/CircuitPython_mcp23017_Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) - Scan a keyboard with a MCP21017 using an API modelled after the keypad module.
