@@ -21,6 +21,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [code](#code)
+- [command-line](#command-line)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -158,6 +159,7 @@
 
 ## cli 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
@@ -170,6 +172,13 @@
 ## code 
 
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
+
+## command-line 
+
+- [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
+- [FabricSoul/gitfetch](https://github.com/FabricSoul/gitfetch) - A command-line GitHub contribution visualization tool written in Rust inspired by Neofetch
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
 ## cpp 
 
@@ -254,11 +263,13 @@
 
 ## go 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
 ## golang 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
 ## good-first-issue 
@@ -430,6 +441,7 @@
 
 ## others 
 
+- [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
 - [Jaydev-1510/PicoKey](https://github.com/Jaydev-1510/PicoKey) - Tiny FIDO key (Ft. RP2354)
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
@@ -461,7 +473,6 @@
 - [yegors/co-atc](https://github.com/yegors/co-atc) - Air traffic control simulator that leverages local SDRs for ADSB telemetry and VHF coms with optional "AI based capabilities"
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
-- [chromalock/TI-32](https://github.com/chromalock/TI-32) - A wireless mod for the TI-84 (not CE).
 - [adammakesthingsdev/Orpheus-Pico-Kicad](https://github.com/adammakesthingsdev/Orpheus-Pico-Kicad) - Kicad files and JLCPCB production gerbers for Orpheus Pico
 - [krunchiekrunch/usb-hub](https://github.com/krunchiekrunch/usb-hub) - A 4 Port USB 2.0 Hub
 - [krunchiekrunch/krunchcard](https://github.com/krunchiekrunch/krunchcard) - A card-sized NFC business card
@@ -668,6 +679,7 @@
 
 ## python 
 
+- [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
 - [pham-tuan-binh/radio-llm](https://github.com/pham-tuan-binh/radio-llm) - LLM Platform with Meshtastic
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -771,6 +783,7 @@
 
 ## terminal 
 
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
