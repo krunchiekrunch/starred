@@ -250,6 +250,7 @@
 
 ## Others 
 
+- [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [Jaydev-1510/PicoKey](https://github.com/Jaydev-1510/PicoKey) - Tiny FIDO key (Ft. RP2354)
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
