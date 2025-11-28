@@ -72,6 +72,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [portfolio-website](#portfolio-website)
 - [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -441,6 +442,7 @@
 
 ## others 
 
+- [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
 - [Jaydev-1510/PicoKey](https://github.com/Jaydev-1510/PicoKey) - Tiny FIDO key (Ft. RP2354)
@@ -664,6 +666,10 @@
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [ygev/Trojan.JS.YouAreAnIdiot](https://github.com/ygev/Trojan.JS.YouAreAnIdiot) - recreation of the You Are An Idiot virus except i'm not smart enough to recreate its true functionality
 - [krunchiekrunch/Bookmarklet](https://github.com/krunchiekrunch/Bookmarklet) - A collection of bookmarklets!
+
+## portfolio-website 
+
+- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 
 ## privacy 
 
