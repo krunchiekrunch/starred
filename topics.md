@@ -442,6 +442,7 @@
 
 ## others 
 
+- [Envious-Data/EnvPico-nRF52840](https://github.com/Envious-Data/EnvPico-nRF52840) - a nRF52840 MCU board in the form of a raspberry pi pico.
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
