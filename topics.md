@@ -442,6 +442,7 @@
 
 ## others 
 
+- [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [Envious-Data/EnvPico-nRF52840](https://github.com/Envious-Data/EnvPico-nRF52840) - a nRF52840 MCU board in the form of a raspberry pi pico.
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
