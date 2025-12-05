@@ -162,6 +162,7 @@
 
 ## JavaScript 
 
+- [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [krunchiekrunch/krunch-is-a-dev](https://github.com/krunchiekrunch/krunch-is-a-dev) - My old profile site, made with React JS
 - [krunchiekrunch/terminal-profile](https://github.com/krunchiekrunch/terminal-profile) - An interactive terminal styled profile site built with ReactJS.
