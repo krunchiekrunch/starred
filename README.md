@@ -361,7 +361,7 @@
 
 ## Rust 
 
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [malted/malted.dev](https://github.com/malted/malted.dev) - My personal site. It's a server-rendered, streamed plaintext file.
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
