@@ -378,7 +378,7 @@
 
 ## minecraft 
 
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
@@ -741,7 +741,7 @@
 
 ## rust 
 
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
