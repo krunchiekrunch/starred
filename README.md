@@ -261,6 +261,7 @@
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
+- [linker3000/Meshtastic-Microbit](https://github.com/linker3000/Meshtastic-Microbit) - Sending and receiving Messages using a BBC Micro:bit
 - [jonny12375/rp3a0](https://github.com/jonny12375/rp3a0) - Reverse engineering the RP3A0 SoC from the Raspberry Pi Zero 2W
 - [CentyLab/PocketPD_HW](https://github.com/CentyLab/PocketPD_HW) - Hardware repo for PocketPD
 - [adammakesthingsdev/Orpheus-Pico-Kicad](https://github.com/adammakesthingsdev/Orpheus-Pico-Kicad) - Kicad files and JLCPCB production gerbers for Orpheus Pico
@@ -313,7 +314,6 @@
 - [Neradoc/CircuitPython_mcp23017_Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) - Scan a keyboard with a MCP21017 using an API modelled after the keypad module.
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
 - [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
-- [linker3000/Meshtastic-Microbit](https://github.com/linker3000/Meshtastic-Microbit) - Sending and receiving Messages using a BBC Micro:bit
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [krunchiekrunch/krunchboard](https://github.com/krunchiekrunch/krunchboard) - A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
