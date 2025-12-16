@@ -442,6 +442,8 @@
 
 ## others 
 
+- [3kh0/ukgeoblock](https://github.com/3kh0/ukgeoblock) - me and the homies hate ofcom
+- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [Envious-Data/EnvPico-nRF52840](https://github.com/Envious-Data/EnvPico-nRF52840) - a nRF52840 MCU board in the form of a raspberry pi pico.
