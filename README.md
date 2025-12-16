@@ -261,6 +261,7 @@
 
 ## Others 
 
+- [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [Jaydev-1510/PicoKey](https://github.com/Jaydev-1510/PicoKey) - Tiny FIDO key (Ft. RP2354)
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
@@ -425,6 +426,7 @@
 
 ## Vue 
 
+- [3kh0/ukgeoblock](https://github.com/3kh0/ukgeoblock) - me and the homies hate ofcom
 - [3kh0/hcbscan](https://github.com/3kh0/hcbscan) - The first public explorer for HCB transactions and organizations.
 - [sruusk/simflow](https://github.com/sruusk/simflow) - Flight simulation checklist app
 
