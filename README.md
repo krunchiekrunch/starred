@@ -59,7 +59,6 @@
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
 - [PocketConcepts/Solar_nRF](https://github.com/PocketConcepts/Solar_nRF) - Solar BPW34 powered nRF BLE
 - [machdyne/blaustahl](https://github.com/machdyne/blaustahl) - Blaustahl Storage Device
-- [wehooper4/Meshtastic-Hardware](https://github.com/wehooper4/Meshtastic-Hardware) - Meshtastic Hardware designs
 - [Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module](https://github.com/Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module) - 
 - [bitluni/Mdot2Matrix](https://github.com/bitluni/Mdot2Matrix) - 
 - [Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480](https://github.com/Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480) - 
@@ -132,6 +131,7 @@
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
 - [vapetrov/microSD_express_Pi](https://github.com/vapetrov/microSD_express_Pi) - 
+- [wehooper4/Meshtastic-Hardware](https://github.com/wehooper4/Meshtastic-Hardware) - Meshtastic Hardware designs
 - [jackw01/pi-tin](https://github.com/jackw01/pi-tin) - Open source raspberry pi handheld retro gaming console
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
 - [ludwich66/Quansheng_UV-K5_Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki) - Quansheng UV-K5 Firmware
