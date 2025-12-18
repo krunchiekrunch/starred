@@ -10,6 +10,7 @@
 - [angular](#angular)
 - [api](#api)
 - [archlinux](#archlinux)
+- [arduino](#arduino)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -50,6 +51,7 @@
 - [html5](#html5)
 - [http](#http)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javafx](#javafx)
 - [javascript](#javascript)
@@ -93,6 +95,7 @@
 - [svelte](#svelte)
 - [tailwind](#tailwind)
 - [terminal](#terminal)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
@@ -123,6 +126,10 @@
 ## archlinux 
 
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
+
+## arduino 
+
+- [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 
 ## automation 
 
@@ -317,6 +324,10 @@
 
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
 
+## iot 
+
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - IoT enabled HDMI mux
+
 ## java 
 
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
@@ -442,6 +453,7 @@
 
 ## others 
 
+- [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
 - [3kh0/ukgeoblock](https://github.com/3kh0/ukgeoblock) - me and the homies hate ofcom
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
@@ -799,6 +811,12 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+
+## tui 
+
+- [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
 ## typescript 
 
