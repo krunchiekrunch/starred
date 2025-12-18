@@ -52,6 +52,8 @@
 
 ## C 
 
+- [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - IoT enabled HDMI mux
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
@@ -314,6 +316,7 @@
 
 ## Python 
 
+- [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
