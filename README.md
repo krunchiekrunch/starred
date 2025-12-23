@@ -14,7 +14,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -111,10 +110,6 @@
 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 
-## EJS 
-
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
-
 ## Go 
 
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
@@ -130,6 +125,7 @@
 ## HTML 
 
 - [vmetodiev/OpenDIMM](https://github.com/vmetodiev/OpenDIMM) - Open source DDR4 module and programming ecosystem
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
