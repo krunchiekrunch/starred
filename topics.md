@@ -475,7 +475,7 @@
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
-- [Jaydev-1510/PicoKey](https://github.com/Jaydev-1510/PicoKey) - Tiny FIDO key (Ft. RP2354)
+- [Jaydev-1510/BitKey](https://github.com/Jaydev-1510/BitKey) - Tiny FIDO key (Ft. RP2354)
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly inst
 - [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
