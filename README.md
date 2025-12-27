@@ -181,7 +181,7 @@
 - [3kh0/fuckyouwebsite](https://github.com/3kh0/fuckyouwebsite) - Preventing you from using the web properly - Scrapyard Flagship 2025
 - [deployor/Pointless-osu](https://github.com/deployor/Pointless-osu) - America sim burr you are sucidal
 - [0x4rk0/adsb-flight-info](https://github.com/0x4rk0/adsb-flight-info) - Shows the Departing Airport and Arriving Airport.
-- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
+- [reiynin/terminal-portfolio](https://github.com/reiynin/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 - [jaczup/ptoszek.pl](https://github.com/jaczup/ptoszek.pl) - Ptoszek.pl to projekt edukacyjny mający na celu uświadamianie użytkowników internetu o zagrożeniach związanych z otwieraniem nieznanych linków. Strona demonstruje potencjalne możliwości stron internet
 - [opott/Nest-Mail](https://github.com/opott/Nest-Mail) - 
 - [staudyy/tanksGame](https://github.com/staudyy/tanksGame) - A browser game where you fight against your friend in a tank navigating a maze
