@@ -351,7 +351,7 @@
 ## javascript 
 
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
-- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
+- [reiynin/terminal-portfolio](https://github.com/reiynin/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [3kh0/echolog](https://github.com/3kh0/echolog) - Echolog is a simple and customizable IP logger written in plain JavaScript
@@ -699,7 +699,7 @@
 
 ## portfolio-website 
 
-- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
+- [reiynin/terminal-portfolio](https://github.com/reiynin/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 
 ## privacy 
 
@@ -753,7 +753,7 @@
 
 ## reactjs 
 
-- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
+- [reiynin/terminal-portfolio](https://github.com/reiynin/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
 ## redux 
