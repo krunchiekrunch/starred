@@ -101,6 +101,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [vpn](#vpn)
 - [vue](#vue)
 - [website](#website)
@@ -677,7 +678,6 @@
 - [Qantas94Heavy/autopilot-pp](https://github.com/Qantas94Heavy/autopilot-pp) - Adds separate autopilot features and improved control to the default autopilot in GeoFS, a free-to-play online flight simulator.
 - [gefs-plugins/fmc-requirejs](https://github.com/gefs-plugins/fmc-requirejs) - Flight Management Computer for GeoFS (third party plugin)
 - [kolos26/GEOFS-LiverySelector](https://github.com/kolos26/GEOFS-LiverySelector) - Unified livery handler addon for GeoFS.
-- [Ferhatduran55/geofs-experimental-fi](https://github.com/Ferhatduran55/geofs-experimental-fi) - Experimental flight interface for GeoFS Pilots.
 - [WorldEditAxe/eaglerproxy](https://github.com/WorldEditAxe/eaglerproxy) - A standalone implemention of the BungeeCord plugin for EaglercraftX, now with online vanilla server support!
 - [familiar/Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + For
 - [GoldenDelicios/Lite2Edit](https://github.com/GoldenDelicios/Lite2Edit) - Java application: Converts Litematics to WorldEdit schematics
@@ -847,6 +847,10 @@
 
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
+
+## userscript 
+
+- [Ferhatduran55/geofs-experimental-fi](https://github.com/Ferhatduran55/geofs-experimental-fi) - Experimental flight interface for GeoFS Pilots.
 
 ## vpn 
 
