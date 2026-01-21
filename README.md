@@ -314,6 +314,7 @@
 
 ## Python 
 
+- [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
