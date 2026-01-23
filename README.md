@@ -22,7 +22,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
-- [MDX](#mdx)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -254,10 +253,6 @@
 
 - [muskf/lcqt2](https://github.com/muskf/lcqt2) - 
 
-## MDX 
-
-- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation
-
 ## Others 
 
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
@@ -418,6 +413,7 @@
 - [Abdallah-Alwarawreh/Syrup](https://github.com/Abdallah-Alwarawreh/Syrup) - Syrup, a Honey alternative
 - [frer0t/site](https://github.com/frer0t/site) - this is my digital playground where i show off cool stuff i've made, talk about what i know, and share my professional journey. think of it as my little home on the internet where you can learn all ab
 - [hackclub/high-seas](https://github.com/hackclub/high-seas) - 🏴‍☠️ It's better to be a pirate than join the navy!
+- [meshtastic/meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
