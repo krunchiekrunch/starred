@@ -224,7 +224,7 @@
 - [Ferhatduran55/geofs-experimental-fi](https://github.com/Ferhatduran55/geofs-experimental-fi) - Experimental flight interface for GeoFS Pilots.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
-- [honkling/tracc](https://github.com/honkling/tracc) - A discord bot that joins a minecraft server and logs chat to a channel
+- [lilrosalyn/tracc](https://github.com/lilrosalyn/tracc) - A discord bot that joins a minecraft server and logs chat to a channel
 - [bypassiwastaken/buypass](https://github.com/bypassiwastaken/buypass) - Opening blocked sites with the PaymentRequest API
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
