@@ -466,6 +466,7 @@
 
 ## others 
 
+- [sandgum/Triangulate-ES_01-Watch](https://github.com/sandgum/Triangulate-ES_01-Watch) - A 5mm thick smartwatch which uses an E-ink display and two OLEDs to display information while consuming very little power
 - [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) - A 3D multiplayer driving game - Built with Mapbox, Three.js, and .NET SignalR -Just pure vibes and endless roads to discover
 - [WilliamAvHolmberg/cesium-flight-simulator](https://github.com/WilliamAvHolmberg/cesium-flight-simulator) - 
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
