@@ -50,6 +50,7 @@
 
 ## C 
 
+- [sandgum/Triangulate-ES_01-Watch](https://github.com/sandgum/Triangulate-ES_01-Watch) - A 5mm thick smartwatch which uses an E-ink display and two OLEDs to display information while consuming very little power
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 - [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - IoT enabled HDMI mux
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
