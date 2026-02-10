@@ -23,6 +23,7 @@
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -307,6 +308,10 @@
 - [User9684/silly-cat](https://github.com/User9684/silly-cat) - 
 - [TheRealDigitalMaster/My-Bookmarklets](https://github.com/TheRealDigitalMaster/My-Bookmarklets) - 
 - [VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges) - 💫Pretty Badges for your GitHub Profiles
+
+## PHP 
+
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 
 ## Python 
 
