@@ -76,6 +76,7 @@
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
+- [php](#php)
 - [portfolio-website](#portfolio-website)
 - [privacy](#privacy)
 - [programming](#programming)
@@ -104,6 +105,7 @@
 - [userscript](#userscript)
 - [vpn](#vpn)
 - [vue](#vue)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 - [youtube](#youtube)
@@ -278,6 +280,7 @@
 
 ## github 
 
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 - [VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges) - 💫Pretty Badges for your GitHub Profiles
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
@@ -310,6 +313,7 @@
 
 ## hacktoberfest 
 
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
@@ -702,6 +706,10 @@
 - [ygev/Trojan.JS.YouAreAnIdiot](https://github.com/ygev/Trojan.JS.YouAreAnIdiot) - recreation of the You Are An Idiot virus except i'm not smart enough to recreate its true functionality
 - [krunchiekrunch/Bookmarklet](https://github.com/krunchiekrunch/Bookmarklet) - A collection of bookmarklets!
 
+## php 
+
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
+
 ## portfolio-website 
 
 - [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
@@ -865,6 +873,10 @@
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+
+## webapp 
+
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 
 ## website 
 
