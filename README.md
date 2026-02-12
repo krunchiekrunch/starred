@@ -177,7 +177,7 @@
 - [AaronGearheart/memrise-hack](https://github.com/AaronGearheart/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
 - [af267/GeoFS-Extra-Vehicles](https://github.com/af267/GeoFS-Extra-Vehicles) - Extra vehicles in GeoFS presented by JXT
 - [dropalltables/catprinter](https://github.com/dropalltables/catprinter) - MXW01 Catprinter website for receipts and images.
-- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Raspberry Pi 5 performance monitoring dashboard using Flask, Chart.js, and Socket.IO
+- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
 - [ading2210/MosaicSlicer](https://github.com/ading2210/MosaicSlicer) - A 3D printing slicer that runs completely within the web browser. (WIP)
 - [3kh0/fuckyouwebsite](https://github.com/3kh0/fuckyouwebsite) - Preventing you from using the web properly - Scrapyard Flagship 2025
 - [deployor/Pointless-osu](https://github.com/deployor/Pointless-osu) - America sim burr you are sucidal
