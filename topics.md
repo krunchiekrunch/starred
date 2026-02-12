@@ -270,7 +270,7 @@
 
 ## flask 
 
-- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Raspberry Pi 5 performance monitoring dashboard using Flask, Chart.js, and Socket.IO
+- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 
 ## game 
@@ -427,7 +427,7 @@
 
 ## monitoring 
 
-- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Raspberry Pi 5 performance monitoring dashboard using Flask, Chart.js, and Socket.IO
+- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
@@ -748,7 +748,7 @@
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [jackw01/pi-tin](https://github.com/jackw01/pi-tin) - Open source raspberry pi handheld retro gaming console
 - [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - An ECP5 FPGA Dev Board in a Pi Zero form
-- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Raspberry Pi 5 performance monitoring dashboard using Flask, Chart.js, and Socket.IO
+- [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
 - [splitbrain/rpibplusleaf](https://github.com/splitbrain/rpibplusleaf) - Raspberry Pi B+ Pinout Leaf
