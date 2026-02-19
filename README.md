@@ -293,7 +293,7 @@
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [krunchiekrunch/orpheus-cookiecutter](https://github.com/krunchiekrunch/orpheus-cookiecutter) - Orpheus Skateboarding as a cookie cutter! - Made with OnShape
 - [markbirss/MESHSTICK](https://github.com/markbirss/MESHSTICK) - diy CH341 USB-TO-SPI SX1262 LR1121 LoRa Meshstick
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [AGB556/BISMUTH](https://github.com/AGB556/BISMUTH) - Official Repo For BISMUTH Custom 3D Printer
 - [NomDeTom/NiceRa](https://github.com/NomDeTom/NiceRa) - I like small nodes and I cannot lie. NRF52 Pro-Micro nodes with SX1262 radios.
 - [harishnkr/bsol](https://github.com/harishnkr/bsol) - grub2 blue-screen-of-life theme
