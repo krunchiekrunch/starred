@@ -470,6 +470,7 @@
 
 ## others 
 
+- [opensensor/pico-serprog](https://github.com/opensensor/pico-serprog) - Fork of https://codeberg.org/libreboot/pico-serprog
 - [Good-Joe2049/Iteration-RP](https://github.com/Good-Joe2049/Iteration-RP) - Minecraft Ray Tracing Shaders
 - [dustinbowers/tailscale-exit-node](https://github.com/dustinbowers/tailscale-exit-node) - A dockerized Tailscale Exit Node
 - [sandgum/Triangulate-ES_01-Watch](https://github.com/sandgum/Triangulate-ES_01-Watch) - A 5mm thick smartwatch which uses an E-ink display and two OLEDs to display information while consuming very little power
