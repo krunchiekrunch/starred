@@ -258,6 +258,7 @@
 
 ## Others 
 
+- [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [Good-Joe2049/Iteration-RP](https://github.com/Good-Joe2049/Iteration-RP) - Minecraft Ray Tracing Shaders
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
