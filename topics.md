@@ -470,6 +470,7 @@
 
 ## others 
 
+- [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [opensensor/pico-serprog](https://github.com/opensensor/pico-serprog) - Fork of https://codeberg.org/libreboot/pico-serprog
 - [Good-Joe2049/Iteration-RP](https://github.com/Good-Joe2049/Iteration-RP) - Minecraft Ray Tracing Shaders
