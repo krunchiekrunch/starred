@@ -91,6 +91,7 @@
 
 ## C++ 
 
+- [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [CentyLab/PocketPD](https://github.com/CentyLab/PocketPD) - Opensource firmware for PocketPD
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
 - [techiesms/GP-02-Test-Code-](https://github.com/techiesms/GP-02-Test-Code-) - 
