@@ -51,6 +51,7 @@
 
 ## C 
 
+- [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
 - [opensensor/pico-serprog](https://github.com/opensensor/pico-serprog) - Fork of https://codeberg.org/libreboot/pico-serprog
 - [sandgum/Triangulate-ES_01-Watch](https://github.com/sandgum/Triangulate-ES_01-Watch) - A 5mm thick smartwatch which uses an E-ink display and two OLEDs to display information while consuming very little power
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
