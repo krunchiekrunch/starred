@@ -52,7 +52,6 @@
 ## C 
 
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
-- [opensensor/pico-serprog](https://github.com/opensensor/pico-serprog) - Fork of https://codeberg.org/libreboot/pico-serprog
 - [sandgum/Triangulate-ES_01-Watch](https://github.com/sandgum/Triangulate-ES_01-Watch) - A 5mm thick smartwatch which uses an E-ink display and two OLEDs to display information while consuming very little power
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 - [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - IoT enabled HDMI mux
@@ -92,6 +91,7 @@
 
 ## C++ 
 
+- [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
 - [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [CentyLab/PocketPD](https://github.com/CentyLab/PocketPD) - Opensource firmware for PocketPD
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
@@ -162,6 +162,7 @@
 
 ## Java 
 
+- [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [Andrews54757/itemscroller-crafting-fix](https://github.com/Andrews54757/itemscroller-crafting-fix) - Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
@@ -261,7 +262,6 @@
 ## Others 
 
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
-- [Good-Joe2049/Iteration-RP](https://github.com/Good-Joe2049/Iteration-RP) - Minecraft Ray Tracing Shaders
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
