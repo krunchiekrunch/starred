@@ -471,6 +471,7 @@
 
 ## others 
 
+- [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Malwarebytes premium trial resetter
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
 - [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
