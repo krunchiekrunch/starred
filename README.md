@@ -24,6 +24,7 @@
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -318,6 +319,10 @@
 ## PHP 
 
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
+
+## PowerShell 
+
+- [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Malwarebytes premium trial resetter
 
 ## Python 
 
