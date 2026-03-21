@@ -238,6 +238,7 @@
 
 ## discord 
 
+- [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
 - [krunchiekrunch/discord-spoilers-tool](https://github.com/krunchiekrunch/discord-spoilers-tool) - This tool turns every character in a text to be a spoiler, which makes it ~extra difficult to unspoil!
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -378,6 +379,7 @@
 
 ## linux 
 
+- [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [danielewood/sierra-wireless-modems](https://github.com/danielewood/sierra-wireless-modems) - EM7565/EM7455/MC7455 - Modem Configuration
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
@@ -394,6 +396,7 @@
 
 ## macos 
 
+- [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
@@ -474,7 +477,6 @@
 - [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Malwarebytes premium trial resetter
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
-- [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) - A certain block game
 - [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [dustinbowers/tailscale-exit-node](https://github.com/dustinbowers/tailscale-exit-node) - A dockerized Tailscale Exit Node
@@ -507,7 +509,6 @@
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
 - [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
-- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - 
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
 - [indeox/sdr-aircraft-monitor](https://github.com/indeox/sdr-aircraft-monitor) - 
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
@@ -897,6 +898,7 @@
 
 ## windows 
 
+- [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
