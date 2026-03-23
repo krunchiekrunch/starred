@@ -509,6 +509,7 @@
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
 - [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
 - [G4lile0/tinyGS](https://github.com/G4lile0/tinyGS) - 📡 Open Ground Station Network  🛰
+- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - 
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
 - [indeox/sdr-aircraft-monitor](https://github.com/indeox/sdr-aircraft-monitor) - 
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
