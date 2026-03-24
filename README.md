@@ -322,7 +322,7 @@
 
 ## PowerShell 
 
-- [Scrut1ny/Malwarebytes-Premium-Bypass](https://github.com/Scrut1ny/Malwarebytes-Premium-Bypass) - Malwarebytes premium trial resetter
+- [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset) - Malwarebytes premium trial resetter
 
 ## Python 
 
