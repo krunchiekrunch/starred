@@ -49,6 +49,7 @@
 - [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -323,6 +324,10 @@
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
+## home-assistant 
+
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+
 ## html 
 
 - [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
@@ -343,7 +348,7 @@
 
 ## iot 
 
-- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - IoT enabled HDMI mux
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 
 ## java 
 
