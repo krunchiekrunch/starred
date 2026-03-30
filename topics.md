@@ -681,7 +681,7 @@
 - [saaiful/socks5](https://github.com/saaiful/socks5) - Setup a SOCKS5 proxy server on an Ubuntu system
 - [sruusk/simflow](https://github.com/sruusk/simflow) - Flight simulation checklist app
 - [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
-- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
+- [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [MarkOfUs/Deaflingo](https://github.com/MarkOfUs/Deaflingo) - 
 - [krunchiekrunch/GeoFS-Ad-Remover](https://github.com/krunchiekrunch/GeoFS-Ad-Remover) - Forked from greasyfork
 - [krunchiekrunch/GeoFs-737-Immersion-SFX](https://github.com/krunchiekrunch/GeoFs-737-Immersion-SFX) - Improves the realism of the default 737 with new sounds - Added bookmarklet version
