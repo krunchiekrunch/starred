@@ -365,7 +365,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
-- [derrod/legendary](https://github.com/derrod/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
+- [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux) - Interact with i2c on linux
 - [nashsu/FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a mult
 - [thejoabo/autofishbot](https://github.com/thejoabo/autofishbot) - Auto Fishing Bot made in Python 3 for Virtual Fisher Discord Bot.
