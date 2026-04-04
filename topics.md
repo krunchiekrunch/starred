@@ -37,6 +37,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
+- [esp32](#esp32)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -261,6 +262,12 @@
 ## emulator 
 
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
+
+## esp32 
+
+- [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+- [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 
 ## firebase 
 
@@ -663,7 +670,6 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [usgraphics/usgc-machine-report](https://github.com/usgraphics/usgc-machine-report) - TR-100 Machine Report
 - [adsb-related-code/dump1090-mutability](https://github.com/adsb-related-code/dump1090-mutability) - 
-- [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 - [shaoxiongduan/sci-calc](https://github.com/shaoxiongduan/sci-calc) - software and firmware for a esp32-based scientific calculator
 - [krunchiekrunch/Pi-Fan-Controller](https://github.com/krunchiekrunch/Pi-Fan-Controller) - Turns on CPU cooling fan on for 2 minutes when CPU temperature hits 50 degrees celsius
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
