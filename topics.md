@@ -486,6 +486,7 @@
 
 ## others 
 
+- [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) - A silly little app that tracks flights that enter a defined airspace and provides useful information about them
 - [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset) - Malwarebytes premium trial resetter
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
