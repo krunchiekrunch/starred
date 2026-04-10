@@ -59,7 +59,6 @@
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
-- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - 
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
 - [PocketConcepts/Solar_nRF](https://github.com/PocketConcepts/Solar_nRF) - Solar BPW34 powered nRF BLE
 - [machdyne/blaustahl](https://github.com/machdyne/blaustahl) - Blaustahl Storage Device
