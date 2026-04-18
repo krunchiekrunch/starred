@@ -24,7 +24,6 @@
 - [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -163,7 +162,6 @@
 
 ## Java 
 
-- [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [Andrews54757/itemscroller-crafting-fix](https://github.com/Andrews54757/itemscroller-crafting-fix) - Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [replydev/Quboscanner](https://github.com/replydev/Quboscanner) - Toy Minecraft Server Scanner
@@ -262,7 +260,7 @@
 
 ## Others 
 
-- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
+- [a-little-wifi/ddr4-dimm-test](https://github.com/a-little-wifi/ddr4-dimm-test) - Trying to make a DDR4 ram stick for fun
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
@@ -319,10 +317,6 @@
 ## PHP 
 
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
-
-## PowerShell 
-
-- [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset) - Malwarebytes premium trial resetter
 
 ## Python 
 
