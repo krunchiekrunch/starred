@@ -421,7 +421,6 @@
 
 ## minecraft 
 
-- [xCollateral/VulkanMod](https://github.com/xCollateral/VulkanMod) - Vulkan renderer mod for Minecraft.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
@@ -486,9 +485,8 @@
 
 ## others 
 
+- [a-little-wifi/ddr4-dimm-test](https://github.com/a-little-wifi/ddr4-dimm-test) - Trying to make a DDR4 ram stick for fun
 - [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) - A silly little app that tracks flights that enter a defined airspace and provides useful information about them
-- [Scrut1ny/MB-Premium-Reset](https://github.com/Scrut1ny/MB-Premium-Reset) - Malwarebytes premium trial resetter
-- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
 - [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
