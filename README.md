@@ -86,6 +86,7 @@
 
 ## C# # 
 
+- [FroggMaster/CreamInstaller](https://github.com/FroggMaster/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [MaikelChan/CatPrinterBLE](https://github.com/MaikelChan/CatPrinterBLE) - Experimental implementation of the MXW01 Cat Printers.
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
 
