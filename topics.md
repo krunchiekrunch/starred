@@ -240,6 +240,7 @@
 
 ## discord 
 
+- [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
 - [krunchiekrunch/discord-spoilers-tool](https://github.com/krunchiekrunch/discord-spoilers-tool) - This tool turns every character in a text to be a spoiler, which makes it ~extra difficult to unspoil!
@@ -368,6 +369,7 @@
 
 ## javascript 
 
+- [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
 - [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -421,6 +423,7 @@
 
 ## minecraft 
 
+- [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [Pokymon/foo.ng](https://github.com/Pokymon/foo.ng) - Free subdomains for everyone.
