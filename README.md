@@ -171,6 +171,7 @@
 
 ## JavaScript 
 
+- [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
 - [krunchiekrunch/krunch-is-a-dev](https://github.com/krunchiekrunch/krunch-is-a-dev) - My old profile site, made with React JS
