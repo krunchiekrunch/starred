@@ -123,6 +123,7 @@
 - [DuroCodes/doubloonz](https://github.com/DuroCodes/doubloonz) - high seas prize calculator
 - [mik3y/flightmon](https://github.com/mik3y/flightmon) - Simple command-line "GUI" for showing current dump1090/readsb data
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
@@ -359,7 +360,6 @@
 - [krunchiekrunch/JPEG-webcam-timelapse](https://github.com/krunchiekrunch/JPEG-webcam-timelapse) - Create a timelapse of JPEG webcams using Python
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [krunchiekrunch/Pi-Fan-Controller](https://github.com/krunchiekrunch/Pi-Fan-Controller) - Turns on CPU cooling fan on for 2 minutes when CPU temperature hits 50 degrees celsius
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
 - [anirudhajith/process-wallpaper](https://github.com/anirudhajith/process-wallpaper) - Shell and python scripts for setting your desktop wallpaper to a ~live word cloud of your most resource-hungry processes
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
