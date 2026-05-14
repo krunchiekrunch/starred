@@ -488,6 +488,7 @@
 
 ## others 
 
+- [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
 - [FroggMaster/CreamInstaller](https://github.com/FroggMaster/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [a-little-wifi/ddr4-dimm-test](https://github.com/a-little-wifi/ddr4-dimm-test) - Trying to make a DDR4 ram stick for fun
 - [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) - A silly little app that tracks flights that enter a defined airspace and provides useful information about them
