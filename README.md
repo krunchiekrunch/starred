@@ -263,6 +263,7 @@
 
 ## Others 
 
+- [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
 - [a-little-wifi/ddr4-dimm-test](https://github.com/a-little-wifi/ddr4-dimm-test) - Trying to make a DDR4 ram stick for fun
 - [digmorepaka/thinkpad-firmware-patches](https://github.com/digmorepaka/thinkpad-firmware-patches) - Collection of ThinkPad UEFI patches.
 - [accesslocksport/falcon](https://github.com/accesslocksport/falcon) - 
