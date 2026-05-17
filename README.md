@@ -70,6 +70,7 @@
 - [armel/uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom) - This is a fork of Egzumer https://github.com/egzumer/uv-k5-firmware-custom
 - [egzumer/uv-k5-firmware-custom](https://github.com/egzumer/uv-k5-firmware-custom) - A merge between https://github.com/OneOfEleven/uv-k5-firmware-custom and https://github.com/fagci/uv-k5-firmware-fagci-mod
 - [NSG650/LinuxInExcel](https://github.com/NSG650/LinuxInExcel) - 
+- [nicho810/XIAO-PowerBread](https://github.com/nicho810/XIAO-PowerBread) - An open-source hardware project designed to offer a reliable and efficient power solution for breadboard prototyping. Featuring built-in sensors, real-time monitoring, and the RP2040/2350/ESP32-S3/C3/
 - [atc1441/ATC_TLSR_Paper](https://github.com/atc1441/ATC_TLSR_Paper) - Custom BLE firmware for Hanshow E-Paper Shelf Labels / Price Tags
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
@@ -100,7 +101,6 @@
 - [techiesms/GP-02-Test-Code-](https://github.com/techiesms/GP-02-Test-Code-) - 
 - [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [nicho810/XIAO-PowerBread](https://github.com/nicho810/XIAO-PowerBread) - An open-source hardware project designed to offer a reliable and efficient power solution for breadboard prototyping. Featuring built-in sensors, real-time monitoring, and the RP2040/2350/ESP32-S3/C3/
 - [ThomDyson/ESP32_adsb_display](https://github.com/ThomDyson/ESP32_adsb_display) - 
 - [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [rauchg/doom-captcha](https://github.com/rauchg/doom-captcha) - 
