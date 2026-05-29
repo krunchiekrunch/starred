@@ -65,6 +65,7 @@
 - [mac](#mac)
 - [macos](#macos)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -248,6 +249,7 @@
 
 ## docker 
 
+- [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -420,6 +422,10 @@
 ## material-design 
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+
+## microsoft 
+
+- [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 
 ## minecraft 
 
@@ -823,6 +829,7 @@
 
 ## self-hosted 
 
+- [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -915,6 +922,7 @@
 
 ## windows 
 
+- [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
