@@ -33,6 +33,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [discord](#discord)
+- [django](#django)
 - [docker](#docker)
 - [education](#education)
 - [electron](#electron)
@@ -81,6 +82,7 @@
 - [others](#others)
 - [php](#php)
 - [portfolio-website](#portfolio-website)
+- [postgresql](#postgresql)
 - [privacy](#privacy)
 - [programming](#programming)
 - [pwa](#pwa)
@@ -98,8 +100,10 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [tailwind](#tailwind)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [tui](#tui)
 - [typescript](#typescript)
@@ -247,8 +251,13 @@
 - [krunchiekrunch/discord-spoilers-tool](https://github.com/krunchiekrunch/discord-spoilers-tool) - This tool turns every character in a text to be a spoiler, which makes it ~extra difficult to unspoil!
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
+## django 
+
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+
 ## docker 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
@@ -745,6 +754,10 @@
 
 - [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
 
+## postgresql 
+
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+
 ## privacy 
 
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -829,6 +842,7 @@
 
 ## self-hosted 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
@@ -854,6 +868,10 @@
 
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 
+## sqlite 
+
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+
 ## svelte 
 
 - [face-hh/lawmaxxing](https://github.com/face-hh/lawmaxxing) - A maps website, that reports you to the police if detected speeding. (self-hosted, calls a number of your choice, a meme)
@@ -863,6 +881,10 @@
 
 - [aramshiva/nomen](https://github.com/aramshiva/nomen) - ✍️ An web viewer of every name
 - [frer0t/site](https://github.com/frer0t/site) - this is my digital playground where i show off cool stuff i've made, talk about what i know, and share my professional journey. think of it as my little home on the internet where you can learn all ab
+
+## tailwindcss 
+
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 
 ## terminal 
 
