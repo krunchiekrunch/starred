@@ -325,6 +325,7 @@
 
 ## Python 
 
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) - A silly little app that tracks flights that enter a defined airspace and provides useful information about them
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
