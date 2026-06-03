@@ -503,6 +503,7 @@
 
 ## others 
 
+- [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
 - [token2/pico-fido](https://github.com/token2/pico-fido) - Token2 pico-fido with PIN Complexity
 - [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
 - [FroggMaster/CreamInstaller](https://github.com/FroggMaster/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
