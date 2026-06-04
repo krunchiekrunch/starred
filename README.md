@@ -232,6 +232,7 @@
 - [gefs-plugins/fmc-requirejs](https://github.com/gefs-plugins/fmc-requirejs) - Flight Management Computer for GeoFS (third party plugin)
 - [kolos26/GEOFS-LiverySelector](https://github.com/kolos26/GEOFS-LiverySelector) - Unified livery handler addon for GeoFS.
 - [Ferhatduran55/geofs-experimental-fi](https://github.com/Ferhatduran55/geofs-experimental-fi) - Experimental flight interface for GeoFS Pilots.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
 - [lilrosalyn/tracc](https://github.com/lilrosalyn/tracc) - A discord bot that joins a minecraft server and logs chat to a channel
 - [bypassiwastaken/buypass](https://github.com/bypassiwastaken/buypass) - Opening blocked sites with the PaymentRequest API
@@ -420,6 +421,7 @@
 
 ## TypeScript 
 
+- [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) - A 3D multiplayer driving game - Built with Mapbox, Three.js, and .NET SignalR -Just pure vibes and endless roads to discover
 - [WilliamAvHolmberg/cesium-flight-simulator](https://github.com/WilliamAvHolmberg/cesium-flight-simulator) - 
 - [dominodaosi106/SMD_Challenge](https://github.com/dominodaosi106/SMD_Challenge) - 
@@ -439,7 +441,6 @@
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
 - [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
 - [WorldEditAxe/eaglerproxy](https://github.com/WorldEditAxe/eaglerproxy) - A standalone implemention of the BungeeCord plugin for EaglercraftX, now with online vanilla server support!
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
