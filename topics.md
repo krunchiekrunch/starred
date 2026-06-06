@@ -503,6 +503,7 @@
 
 ## others 
 
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
 - [token2/pico-fido](https://github.com/token2/pico-fido) - Token2 pico-fido with PIN Complexity
 - [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
