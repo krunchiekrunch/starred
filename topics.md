@@ -950,6 +950,7 @@
 
 ## windows 
 
+- [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64) - Dreg's fork flashrom special edition for Buzzpirat & bus pirate. Windows x64 & x32 raiden_debug_spi, ft2232_spi, serprog, buspirate_spi, dediprog, developerbox, pony_spi, usbblaster_spi, pickit2_spi, 
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
