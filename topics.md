@@ -950,6 +950,7 @@
 
 ## windows 
 
+- [anseki/hashfile-contextmenu](https://github.com/anseki/hashfile-contextmenu) - Add commands to get a hash string of a file to context menu of Windows Explorer.
 - [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64) - Dreg's fork flashrom special edition for Buzzpirat & bus pirate. Windows x64 & x32 raiden_debug_spi, ft2232_spi, serprog, buspirate_spi, dediprog, developerbox, pony_spi, usbblaster_spi, pickit2_spi, 
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
