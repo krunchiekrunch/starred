@@ -266,6 +266,7 @@
 
 ## Others 
 
+- [anseki/hashfile-contextmenu](https://github.com/anseki/hashfile-contextmenu) - Add commands to get a hash string of a file to context menu of Windows Explorer.
 - [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
 - [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
 - [a-little-wifi/ddr4-dimm-test](https://github.com/a-little-wifi/ddr4-dimm-test) - Trying to make a DDR4 ram stick for fun
