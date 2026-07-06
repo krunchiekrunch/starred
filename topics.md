@@ -202,6 +202,7 @@
 
 ## cpp 
 
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 
 ## cryptography 
@@ -627,7 +628,7 @@
 - [EvanKrall/pipad](https://github.com/EvanKrall/pipad) - A PCB for putting a Raspberry Pi CM4 inside a 1st-generation iPad.
 - [ThomDyson/ESP32_adsb_display](https://github.com/ThomDyson/ESP32_adsb_display) - 
 - [krunchiekrunch/skadis-meshtastic](https://github.com/krunchiekrunch/skadis-meshtastic) - A container to store a Meshtastic node, 2 antenna and a 18650 battery, compatilable with IKEA SKÅDIS pegboard - Designed with OnShape
-- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [evan-gan/trail-PCB-communication-network](https://github.com/evan-gan/trail-PCB-communication-network) - Software for the trail communication network board!
 - [azlan-works/Icarus](https://github.com/azlan-works/Icarus) - A custom meshtastic PCB based on ESP32-S3 and LoRa RA-01SH
 - [krunchiekrunch/orpheus-cookiecutter](https://github.com/krunchiekrunch/orpheus-cookiecutter) - Orpheus Skateboarding as a cookie cutter! - Made with OnShape
