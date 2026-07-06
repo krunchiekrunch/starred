@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [CentyLab/PocketPD](https://github.com/CentyLab/PocketPD) - Opensource firmware for PocketPD
@@ -103,7 +104,7 @@
 - [gnss-sdr/gnss-sdr](https://github.com/gnss-sdr/gnss-sdr) - GNSS-SDR, an open-source software-defined GNSS receiver
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [ThomDyson/ESP32_adsb_display](https://github.com/ThomDyson/ESP32_adsb_display) - 
-- [ashtf8/PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
+- [TailsmanDesign/PocketMage_PDA](https://github.com/TailsmanDesign/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 - [rauchg/doom-captcha](https://github.com/rauchg/doom-captcha) - 
 - [shaoxiongduan/sci-calc](https://github.com/shaoxiongduan/sci-calc) - software and firmware for a esp32-based scientific calculator
 - [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
