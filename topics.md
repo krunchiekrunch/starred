@@ -43,6 +43,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [game](#game)
+- [game-development](#game-development)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -300,6 +301,10 @@
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
+## game-development 
+
+- [PaulKlinger/tinypc](https://github.com/PaulKlinger/tinypc) - A miniature gaming PC / laptop
+
 ## github 
 
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
@@ -504,6 +509,7 @@
 
 ## others 
 
+- [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [ivars-vids/MXW01-Print](https://github.com/ivars-vids/MXW01-Print) - 
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
@@ -739,7 +745,6 @@
 - [muskf/lcqt2](https://github.com/muskf/lcqt2) - 
 - [ClassiCube/ClassiCube](https://github.com/ClassiCube/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C  from scratch (formerly ClassicalSharp in C#)
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) - source tree, website, and writeup for the  sh1mmer chromebook jailbreak
-- [TheRealDigitalMaster/My-Bookmarklets](https://github.com/TheRealDigitalMaster/My-Bookmarklets) - 
 - [tholman/one-square-minesweeper](https://github.com/tholman/one-square-minesweeper) - A game of minesweeper with only one square to sweep. Fun for the whole family.
 - [FogNetwork/Ingot](https://github.com/FogNetwork/Ingot) - A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
