@@ -51,6 +51,7 @@
 
 ## C 
 
+- [PaulKlinger/tinypc](https://github.com/PaulKlinger/tinypc) - A miniature gaming PC / laptop
 - [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64) - Dreg's fork flashrom special edition for Buzzpirat & bus pirate. Windows x64 & x32 raiden_debug_spi, ft2232_spi, serprog, buspirate_spi, dediprog, developerbox, pony_spi, usbblaster_spi, pickit2_spi, 
 - [token2/pico-fido](https://github.com/token2/pico-fido) - Token2 pico-fido with PIN Complexity
 - [stacksmashing/pico-serprog](https://github.com/stacksmashing/pico-serprog) - Flashrom/serprog compatible firmware for the Raspberry Pi Pico
@@ -133,6 +134,7 @@
 
 ## HTML 
 
+- [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [vmetodiev/OpenDIMM](https://github.com/vmetodiev/OpenDIMM) - Open source DDR4 module and programming ecosystem
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
@@ -321,7 +323,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [familiar/Bedwars-Bot](https://github.com/familiar/Bedwars-Bot) - A Bedwars Bot made for Hypixel, compatibility with Fours, Dreams, (and Castles) modes. Has resource sharing, defense, failsafes, and requeuing. Coded in Macro / Keybind mod for 1.12.2 Liteloader + For
 - [User9684/silly-cat](https://github.com/User9684/silly-cat) - 
-- [TheRealDigitalMaster/My-Bookmarklets](https://github.com/TheRealDigitalMaster/My-Bookmarklets) - 
 - [VishwaGauravIn/pretty-readme-badges](https://github.com/VishwaGauravIn/pretty-readme-badges) - 💫Pretty Badges for your GitHub Profiles
 
 ## PHP 
