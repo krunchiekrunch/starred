@@ -749,7 +749,7 @@
 - [FogNetwork/Ingot](https://github.com/FogNetwork/Ingot) - A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
 - [3kh0/simple-chat](https://github.com/3kh0/simple-chat) - A quick and simple chatroom made with socket.io with support for many different rooms.
-- [DataGraph1/MC-Live-Wallpaper](https://github.com/DataGraph1/MC-Live-Wallpaper) - 
+- [DataGraph1/MC-Live-Wallpaper](https://github.com/DataGraph1/MC-Live-Wallpaper) - Automatically changes your wallpaper to a Minecraft screenshot with equivalent in game time and weather to real life
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 - [ygev/Trojan.JS.YouAreAnIdiot](https://github.com/ygev/Trojan.JS.YouAreAnIdiot) - recreation of the You Are An Idiot virus except i'm not smart enough to recreate its true functionality
