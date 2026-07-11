@@ -378,7 +378,7 @@
 - [thejoabo/autofishbot](https://github.com/thejoabo/autofishbot) - Auto Fishing Bot made in Python 3 for Virtual Fisher Discord Bot.
 - [MercuryWorkshop/sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) - source tree, website, and writeup for the  sh1mmer chromebook jailbreak
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
-- [DataGraph1/MC-Live-Wallpaper](https://github.com/DataGraph1/MC-Live-Wallpaper) - 
+- [DataGraph1/MC-Live-Wallpaper](https://github.com/DataGraph1/MC-Live-Wallpaper) - Automatically changes your wallpaper to a Minecraft screenshot with equivalent in game time and weather to real life
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos 
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨
 
