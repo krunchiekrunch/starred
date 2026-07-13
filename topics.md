@@ -203,7 +203,7 @@
 
 ## cpp 
 
-- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows and MacOS head tracker for OpenTrack and simulator games.
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 
 ## cryptography 
@@ -427,6 +427,7 @@
 
 ## macos 
 
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows and MacOS head tracker for OpenTrack and simulator games.
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
