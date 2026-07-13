@@ -96,7 +96,7 @@
 
 ## C++ 
 
-- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows head tracker for OpenTrack and simulator games.
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows and MacOS head tracker for OpenTrack and simulator games.
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [puzrin/reflow_micro](https://github.com/puzrin/reflow_micro) - Compact reflow soldering table with Bluetooth control
 - [CentyLab/PocketPD](https://github.com/CentyLab/PocketPD) - Opensource firmware for PocketPD
