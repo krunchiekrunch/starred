@@ -471,7 +471,7 @@
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
-- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [RPi-Monitor/RPi-Monitor](https://github.com/RPi-Monitor/RPi-Monitor) - Real time monitoring for embedded devices
 
 ## music 
 
@@ -807,7 +807,7 @@
 - [chrismyers2000/MeshAdv-Pi-Hat](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) - A Raspberry Pi hat for Meshtastic with 1-Watt Lora module
 - [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
 - [splitbrain/rpibplusleaf](https://github.com/splitbrain/rpibplusleaf) - Raspberry Pi B+ Pinout Leaf
-- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [RPi-Monitor/RPi-Monitor](https://github.com/RPi-Monitor/RPi-Monitor) - Real time monitoring for embedded devices
 - [TonyLHansen/raspberry-pi-safe-off-switch](https://github.com/TonyLHansen/raspberry-pi-safe-off-switch) - A set of scripts that can be used to provide a "safe power off switch" for a Raspberry Pi.
 
 ## react 
