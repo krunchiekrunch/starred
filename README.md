@@ -214,7 +214,7 @@
 - [aadhilmsyed/RouteConverter](https://github.com/aadhilmsyed/RouteConverter) - Converts a CSV file from Google MyMaps into a FMC route insertable into GeoFS.
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
-- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [RPi-Monitor/RPi-Monitor](https://github.com/RPi-Monitor/RPi-Monitor) - Real time monitoring for embedded devices
 - [tmquan2508/Q-bot-afk](https://github.com/tmquan2508/Q-bot-afk) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
 - [krunchiekrunch/Better-GeoFS-NAV-Map](https://github.com/krunchiekrunch/Better-GeoFS-NAV-Map) - Changes the navigation map of GeoFS to another tile provider
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
