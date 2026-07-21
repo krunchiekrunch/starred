@@ -187,7 +187,7 @@
 - [charliegerard/webusb-rtlsdr-aircraft-radar-system](https://github.com/charliegerard/webusb-rtlsdr-aircraft-radar-system) - Build an aircraft radar system using WebUSB and a RTL-SDR dongle to receive live data from airplanes 📡 ✈️
 - [indeox/sdr-aircraft-monitor](https://github.com/indeox/sdr-aircraft-monitor) - 
 - [humboldt123/mutuals](https://github.com/humboldt123/mutuals) - Visualize your network of mutual friends on Discord in a network graph.
-- [AaronGearheart/memrise-hack](https://github.com/AaronGearheart/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
+- [JettStauver/memrise-hack](https://github.com/JettStauver/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
 - [af267/GeoFS-Extra-Vehicles](https://github.com/af267/GeoFS-Extra-Vehicles) - Extra vehicles in GeoFS presented by JXT
 - [dropalltables/catprinter](https://github.com/dropalltables/catprinter) - MXW01 Catprinter website for receipts and images.
 - [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
