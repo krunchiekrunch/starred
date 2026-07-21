@@ -577,7 +577,7 @@
 - [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module](https://github.com/Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module) - 
-- [AaronGearheart/memrise-hack](https://github.com/AaronGearheart/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
+- [JettStauver/memrise-hack](https://github.com/JettStauver/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
 - [techiesms/GP-02-Test-Code-](https://github.com/techiesms/GP-02-Test-Code-) - 
 - [krunchiekrunch/nrf52-meshtastic](https://github.com/krunchiekrunch/nrf52-meshtastic) - [WIP] A credit card size, slim, low profile meshtastic pager powered by nRF52840
 - [krunchiekrunch/krunchboard](https://github.com/krunchiekrunch/krunchboard) - A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
