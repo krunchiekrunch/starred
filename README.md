@@ -51,6 +51,7 @@
 
 ## C 
 
+- [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
 - [PaulKlinger/tinypc](https://github.com/PaulKlinger/tinypc) - A miniature gaming PC / laptop
 - [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64) - Dreg's fork flashrom special edition for Buzzpirat & bus pirate. Windows x64 & x32 raiden_debug_spi, ft2232_spi, serprog, buspirate_spi, dediprog, developerbox, pony_spi, usbblaster_spi, pickit2_spi, 
 - [token2/pico-fido](https://github.com/token2/pico-fido) - Token2 pico-fido with PIN Complexity
