@@ -510,6 +510,8 @@
 
 ## others 
 
+- [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
+- [Gypsy-Server/RadioMCU](https://github.com/Gypsy-Server/RadioMCU) - Playing FM transmitter on various Microcontrollers without using any external hardware
 - [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
