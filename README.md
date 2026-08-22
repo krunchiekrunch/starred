@@ -242,7 +242,7 @@
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
 - [lilrosalyn/tracc](https://github.com/lilrosalyn/tracc) - A discord bot that joins a minecraft server and logs chat to a channel
 - [bypassiwastaken/buypass](https://github.com/bypassiwastaken/buypass) - Opening blocked sites with the PaymentRequest API
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [FogNetwork/Ingot](https://github.com/FogNetwork/Ingot) - A bookmarklet to disable extensions based on LTBEEF with an interface based on the chrome extension page
 - [3kh0/simple-chat](https://github.com/3kh0/simple-chat) - A quick and simple chatroom made with socket.io with support for many different rooms.
