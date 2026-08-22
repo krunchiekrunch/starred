@@ -218,7 +218,7 @@
 
 - [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
@@ -271,7 +271,7 @@
 
 ## electron 
 
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
 ## emulator 
 
@@ -299,7 +299,7 @@
 ## game 
 
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 
 ## game-development 
 
@@ -346,7 +346,7 @@
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [lilrosalyn/tracc](https://github.com/lilrosalyn/tracc) - A discord bot that joins a minecraft server and logs chat to a channel
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
 ## home-assistant 
@@ -394,7 +394,7 @@
 - [3kh0/echolog](https://github.com/3kh0/echolog) - Echolog is a simple and customizable IP logger written in plain JavaScript
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -453,7 +453,7 @@
 - [spawnmason/randar-explanation](https://github.com/spawnmason/randar-explanation) - "Randar" is an exploit for Minecraft which uses LLL lattice reduction to crack the internal state of an incorrectly reused java.util.Random in the Minecraft server, then works backwards from that to l
 - [olauncher/olauncher](https://github.com/olauncher/olauncher) - A modified version of the old Minecraft Launcher supporting Microsoft authentication and more.
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 
 ## mobile 
@@ -822,7 +822,7 @@
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
@@ -927,7 +927,7 @@
 ## ui 
 
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
-- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+- [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [pd4d10/chrome-ui](https://github.com/pd4d10/chrome-ui) - Chrome browser UI built with web technologies
 
 ## ui-design 
