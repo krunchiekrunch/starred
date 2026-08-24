@@ -82,6 +82,7 @@
 - [operating-system](#operating-system)
 - [others](#others)
 - [php](#php)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -764,6 +765,11 @@
 ## php 
 
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
+
+## portfolio 
+
+- [iamreiyn/terminal-portfolio](https://github.com/iamreiyn/terminal-portfolio) - An interactive, retro terminal-style portfolio template built with react.js.
+- [frer0t/site](https://github.com/frer0t/site) - this is my digital playground where i show off cool stuff i've made, talk about what i know, and share my professional journey. think of it as my little home on the internet where you can learn all ab
 
 ## portfolio-website 
 
