@@ -546,7 +546,7 @@
 - [Jaydev-1510/BitKey](https://github.com/Jaydev-1510/BitKey) - Tiny FIDO key (Ft. RP2354)
 - [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
 - [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly inst
-- [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
+- [DL5LZ/qrm-logger](https://github.com/DL5LZ/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
