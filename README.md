@@ -341,7 +341,7 @@
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
-- [do1zl/qrm-logger](https://github.com/do1zl/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
+- [DL5LZ/qrm-logger](https://github.com/DL5LZ/qrm-logger) - A software-defined radio (SDR) application for monitoring and logging radio frequency interference in amateur radio bands, based on GNU Radio.
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
 - [Neradoc/CircuitPython_mcp23017_Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) - Scan a keyboard with a MCP21017 using an API modelled after the keypad module.
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
