@@ -139,7 +139,7 @@
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [vmetodiev/OpenDIMM](https://github.com/vmetodiev/OpenDIMM) - Open source DDR4 module and programming ecosystem
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [umbertoragone/usbc-rtl-sdr](https://github.com/umbertoragone/usbc-rtl-sdr) - A PCB adapter board to convert your RTL-SDR V3/V4 dongle from USB-A to USB-C
 - [solderparty/rp2040_stamp_carrier_hw](https://github.com/solderparty/rp2040_stamp_carrier_hw) - 
 - [Keyaan-07/RP2040-mini-SDR](https://github.com/Keyaan-07/RP2040-mini-SDR) - An attempt to make an SDR using the RP2040.
@@ -333,6 +333,7 @@
 
 ## Python 
 
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
