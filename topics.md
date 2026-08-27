@@ -260,6 +260,7 @@
 
 ## docker 
 
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
@@ -352,6 +353,7 @@
 
 ## home-assistant 
 
+- [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 
 ## html 
@@ -537,7 +539,7 @@
 - [tuckershannon/ESP32-Desktop-Monitor](https://github.com/tuckershannon/ESP32-Desktop-Monitor) - 
 - [3kh0/ukgeoblock](https://github.com/3kh0/ukgeoblock) - me and the homies hate ofcom
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [Envious-Data/EnvPico-nRF52840](https://github.com/Envious-Data/EnvPico-nRF52840) - a nRF52840 MCU board in the form of a raspberry pi pico.
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
