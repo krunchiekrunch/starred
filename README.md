@@ -52,6 +52,7 @@
 
 ## C 
 
+- [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
 - [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
 - [PaulKlinger/tinypc](https://github.com/PaulKlinger/tinypc) - A miniature gaming PC / laptop
@@ -340,7 +341,7 @@
 
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [ajharnak/flighttrackr](https://github.com/ajharnak/flighttrackr) - A silly little app that tracks flights that enter a defined airspace and provides useful information about them
