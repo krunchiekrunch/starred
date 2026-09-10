@@ -281,6 +281,7 @@
 
 ## esp32 
 
+- [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 - [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 - [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
@@ -517,7 +518,7 @@
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
 - [Gypsy-Server/RadioMCU](https://github.com/Gypsy-Server/RadioMCU) - Playing FM transmitter on various Microcontrollers without using any external hardware
 - [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [ivars-vids/MXW01-Print](https://github.com/ivars-vids/MXW01-Print) - 
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
