@@ -359,7 +359,7 @@
 - [krunchiekrunch/netpeek](https://github.com/krunchiekrunch/netpeek) - All in One Terminal Network Toolkit
 - [DedFishy/FWMM](https://github.com/DedFishy/FWMM) - Framework Matrix Manager is a program for rendering images on your Framework 16's LED matrix module.
 - [krunchiekrunch/krunchpad](https://github.com/krunchiekrunch/krunchpad) - A DIY 12 key macropad powered by RP2040 with KMK firmware
-- [danieliscrazy/Jukebox](https://github.com/danieliscrazy/Jukebox) - IRL Minecraft Jukebox that plays discs!
+- [itismedld/Jukebox](https://github.com/itismedld/Jukebox) - IRL Minecraft Jukebox that plays discs!
 - [xxDURGEXxx/Stats-Oled-Raspberry-Pi-5](https://github.com/xxDURGEXxx/Stats-Oled-Raspberry-Pi-5) - A Python-based system stats dashboard for Pi 5 with OLED support and physical button navigation (libgpiod v2). View real-time CPU, RAM, RP1 chip, PMIC, NVMe, and network details like IP and mDNS. Butt
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
 - [jeremy46231/MXW01-catprinter](https://github.com/jeremy46231/MXW01-catprinter) - Script for printing to the MXW01 thermal cat printer
