@@ -598,7 +598,7 @@
 - [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
 - [Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480](https://github.com/Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480) - 
 - [leowilkin/govuk-personal](https://github.com/leowilkin/govuk-personal) - love @alphagov so much that you'd use their design system on a personal website? now you can :D
-- [danieliscrazy/Jukebox](https://github.com/danieliscrazy/Jukebox) - IRL Minecraft Jukebox that plays discs!
+- [itismedld/Jukebox](https://github.com/itismedld/Jukebox) - IRL Minecraft Jukebox that plays discs!
 - [af267/GeoFS-Extra-Vehicles](https://github.com/af267/GeoFS-Extra-Vehicles) - Extra vehicles in GeoFS presented by JXT
 - [merbanan/rtl_433](https://github.com/merbanan/rtl_433) - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 - [krunchiekrunch/orpheus-keychain](https://github.com/krunchiekrunch/orpheus-keychain) - pcb keychain with some cool features
