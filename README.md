@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
 - [Gypsy-Server/RadioMCU](https://github.com/Gypsy-Server/RadioMCU) - Playing FM transmitter on various Microcontrollers without using any external hardware
 - [anseki/hashfile-contextmenu](https://github.com/anseki/hashfile-contextmenu) - Add commands to get a hash string of a file to context menu of Windows Explorer.
 - [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
