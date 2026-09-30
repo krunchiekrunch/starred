@@ -514,6 +514,7 @@
 
 ## others 
 
+- [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
 - [Gypsy-Server/RadioMCU](https://github.com/Gypsy-Server/RadioMCU) - Playing FM transmitter on various Microcontrollers without using any external hardware
