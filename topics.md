@@ -117,6 +117,7 @@
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [youtube](#youtube)
 
 ## ai 
@@ -981,6 +982,11 @@
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
+
+## windows-11 
+
+- [NicholasSlattery/sony-head-tracker](https://github.com/NicholasSlattery/sony-head-tracker) - Use the motion sensors inside Sony headphones as a low-latency Windows and MacOS head tracker for OpenTrack and simulator games.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
 ## youtube 
