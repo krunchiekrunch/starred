@@ -139,6 +139,7 @@
 ## HTML 
 
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
+- [ivars-vids/MXW01-Print](https://github.com/ivars-vids/MXW01-Print) - 
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [vmetodiev/OpenDIMM](https://github.com/vmetodiev/OpenDIMM) - Open source DDR4 module and programming ecosystem
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
@@ -181,7 +182,6 @@
 
 ## JavaScript 
 
-- [ivars-vids/MXW01-Print](https://github.com/ivars-vids/MXW01-Print) - 
 - [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
@@ -359,7 +359,7 @@
 - [krunchiekrunch/krunchboard](https://github.com/krunchiekrunch/krunchboard) - A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
 - [krunchiekrunch/netpeek](https://github.com/krunchiekrunch/netpeek) - All in One Terminal Network Toolkit
 - [DedFishy/FWMM](https://github.com/DedFishy/FWMM) - Framework Matrix Manager is a program for rendering images on your Framework 16's LED matrix module.
-- [krunchiekrunch/krunchpad](https://github.com/krunchiekrunch/krunchpad) - A DIY 12 key macropad powered by RP2040 with KMK firmware
+- [krunchiekrunch/krunchpad](https://github.com/krunchiekrunch/krunchpad) - A DIY 12 key macropad powered by RP2040 with KMK
 - [itismedld/Jukebox](https://github.com/itismedld/Jukebox) - IRL Minecraft Jukebox that plays discs!
 - [xxDURGEXxx/Stats-Oled-Raspberry-Pi-5](https://github.com/xxDURGEXxx/Stats-Oled-Raspberry-Pi-5) - A Python-based system stats dashboard for Pi 5 with OLED support and physical button navigation (libgpiod v2). View real-time CPU, RAM, RP1 chip, PMIC, NVMe, and network details like IP and mDNS. Butt
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
