@@ -595,7 +595,7 @@
 - [krunchiekrunch/netpeek](https://github.com/krunchiekrunch/netpeek) - All in One Terminal Network Toolkit
 - [DedFishy/FWMM](https://github.com/DedFishy/FWMM) - Framework Matrix Manager is a program for rendering images on your Framework 16's LED matrix module.
 - [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) - Curcuit board with RGB leds to show the live position of trains in Auckland
-- [krunchiekrunch/krunchpad](https://github.com/krunchiekrunch/krunchpad) - A DIY 12 key macropad powered by RP2040 with KMK firmware
+- [krunchiekrunch/krunchpad](https://github.com/krunchiekrunch/krunchpad) - A DIY 12 key macropad powered by RP2040 with KMK
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
 - [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
 - [Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480](https://github.com/Elecrow-RD/CrowPanel-7.0-HMI-ESP32-Display-800x480) - 
