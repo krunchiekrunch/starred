@@ -65,7 +65,7 @@
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
-- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - 
+- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - get yourself a premade keybridge here: https://localdevices.net/products/keybridge-2-0
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
 - [PocketConcepts/Solar_nRF](https://github.com/PocketConcepts/Solar_nRF) - Solar BPW34 powered nRF BLE
 - [machdyne/blaustahl](https://github.com/machdyne/blaustahl) - Blaustahl Storage Device
@@ -341,7 +341,7 @@
 ## Python 
 
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
-- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
+- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
