@@ -516,7 +516,7 @@
 ## others 
 
 - [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
-- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - 
+- [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
 - [Gypsy-Server/RadioMCU](https://github.com/Gypsy-Server/RadioMCU) - Playing FM transmitter on various Microcontrollers without using any external hardware
 - [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
@@ -563,7 +563,7 @@
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
 - [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
 - [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
-- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - 
+- [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - get yourself a premade keybridge here: https://localdevices.net/products/keybridge-2-0
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
 - [indeox/sdr-aircraft-monitor](https://github.com/indeox/sdr-aircraft-monitor) - 
 - [dancarroll/qmk-bongo](https://github.com/dancarroll/qmk-bongo) - Simple utility for rendering Bongo Cat to a 128x32 OLED display on a keyboard running QMK firmware
