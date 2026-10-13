@@ -37,6 +37,7 @@
 - [docker](#docker)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [esp32](#esp32)
 - [firebase](#firebase)
@@ -144,6 +145,7 @@
 
 ## arduino 
 
+- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXN947) — independent, community project
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 
 ## automation 
@@ -275,6 +277,10 @@
 ## electron 
 
 - [gorilla-devs/GDLauncher](https://github.com/gorilla-devs/GDLauncher) - [ARCHIVED - CHECK OUT THE NEW GDLAUNCHER CARBON] GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
+
+## embedded 
+
+- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXN947) — independent, community project
 
 ## emulator 
 
@@ -866,6 +872,7 @@
 
 ## security 
 
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
 ## self-hosted 
