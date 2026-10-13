@@ -52,6 +52,7 @@
 
 ## C 
 
+- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXN947) — independent, community project
 - [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
 - [scavenrage/PCIe-PC-Power-Control-ESP32-H2](https://github.com/scavenrage/PCIe-PC-Power-Control-ESP32-H2) - PCIe card with ESP32-H2 for remote PC power-on and reset via Home Assistant/Zigbee — powered from the PCIe 3.3Vaux rail, no extra cables.
