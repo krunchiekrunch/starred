@@ -163,7 +163,7 @@
 - [krunchiekrunch/flying-overhead](https://github.com/krunchiekrunch/flying-overhead) - Announce flights of anything directly overhead. (Added OpenStreetMap and Google Maps tiles)
 - [monkeymademe/CamUI](https://github.com/monkeymademe/CamUI) - CamUI is a WebUI for the Picamera2 Library for the Raspberry Pi
 - [liamcottle/meshtastic-map](https://github.com/liamcottle/meshtastic-map) - A map of all Meshtastic nodes heard via MQTT.
-- [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
+- [rickstaa/awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ADS-B tools, projects, images, resources and other shiny things.
 - [benlansdell/flying-overhead](https://github.com/benlansdell/flying-overhead) - Announce flights of anything directly overhead.
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [FrankSalad/spot-the-drowning-child](https://github.com/FrankSalad/spot-the-drowning-child) - Lifeguarding Game
