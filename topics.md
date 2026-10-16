@@ -521,6 +521,7 @@
 
 ## others 
 
+- [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
