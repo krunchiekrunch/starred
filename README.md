@@ -262,6 +262,7 @@
 
 ## Jupyter Notebook 
 
+- [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [CDFER/Auckland-LED-Train-Map](https://github.com/CDFER/Auckland-LED-Train-Map) - Curcuit board with RGB leds to show the live position of trains in Auckland
 
 ## KiCad Layout 
