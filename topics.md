@@ -145,7 +145,7 @@
 
 ## arduino 
 
-- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXN947) — independent, community project
+- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXA156, FRDM-MCXC444, FRDM-MCXN236, FRDM-MCXN947) — independent, community project
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 
 ## automation 
@@ -280,7 +280,7 @@
 
 ## embedded 
 
-- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXN947) — independent, community project
+- [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXA156, FRDM-MCXC444, FRDM-MCXN236, FRDM-MCXN947) — independent, community project
 
 ## emulator 
 
