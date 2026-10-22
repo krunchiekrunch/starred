@@ -591,7 +591,6 @@
 - [vapetrov/microSD_express_Pi](https://github.com/vapetrov/microSD_express_Pi) - 
 - [porkcube/meshtastic-diy-nodes](https://github.com/porkcube/meshtastic-diy-nodes) - an awesome list of Meshtastic DIY nodes, PR additions welcome!
 - [wehooper4/Meshtastic-Hardware](https://github.com/wehooper4/Meshtastic-Hardware) - Meshtastic Hardware designs
-- [SpudGunMan/meshing-around](https://github.com/SpudGunMan/meshing-around) - BBS Mesh Scripts for Meshtastic
 - [hackclub/hcb](https://github.com/hackclub/hcb) - 🏦 Open source, transparency-orientated fiscal sponsorship platform for hackers & creatives.
 - [Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module](https://github.com/Elecrow-RD/Elecrow-nRFLR1262-Wireless-Transceiver-Module) - 
 - [JettStauver/memrise-hack](https://github.com/JettStauver/memrise-hack) - A Simple JS Hack For Memrise To Get Easy Points
@@ -910,6 +909,7 @@
 
 ## svelte 
 
+- [xenon-pl/evri-fucking-time](https://github.com/xenon-pl/evri-fucking-time) - An unofficial aggregator of retailers that utilize Evri
 - [face-hh/lawmaxxing](https://github.com/face-hh/lawmaxxing) - A maps website, that reports you to the police if detected speeding. (self-hosted, calls a number of your choice, a meme)
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 
