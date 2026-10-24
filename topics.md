@@ -35,6 +35,7 @@
 - [discord](#discord)
 - [django](#django)
 - [docker](#docker)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
@@ -269,6 +270,10 @@
 - [mvaisakh/wsl-distro-tars](https://github.com/mvaisakh/wsl-distro-tars) - A script that creates importable tar files for Windows Subsystem for Linux (WSL2). These files can be used to install any Linux distribution of your choice, provided it is available on Docker.
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## education 
 
