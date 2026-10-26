@@ -290,7 +290,7 @@
 - [AnasMalas/pcb-edge-usb-c](https://github.com/AnasMalas/pcb-edge-usb-c) - Use your PCB itself as a USB C connector! Including 10,14, and 24 Pin versions
 - [ukkokalevala/RSS_BBC_Head_Lines](https://github.com/ukkokalevala/RSS_BBC_Head_Lines) - RSS_BBC_Head_Lines
 - [Jaydev-1510/BitKey](https://github.com/Jaydev-1510/BitKey) - Tiny FIDO key (Ft. RP2354)
-- [andr36oid/releases](https://github.com/andr36oid/releases) - R36S android image releases.
+- [andr36oid/releases](https://github.com/andr36oid/releases) - andr36oid firmware releases
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
 - [linker3000/Meshtastic-Microbit](https://github.com/linker3000/Meshtastic-Microbit) - Sending and receiving Messages using a BBC Micro:bit
@@ -402,7 +402,7 @@
 
 ## Rust 
 
-- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 - [malted/malted.dev](https://github.com/malted/malted.dev) - My personal site. It's a server-rendered, streamed plaintext file.
