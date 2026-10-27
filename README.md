@@ -442,6 +442,7 @@
 
 ## TypeScript 
 
+- [3kh0/slick](https://github.com/3kh0/slick) - The most powerful and versatile Slack client mod
 - [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) - A 3D multiplayer driving game - Built with Mapbox, Three.js, and .NET SignalR -Just pure vibes and endless roads to discover
 - [WilliamAvHolmberg/cesium-flight-simulator](https://github.com/WilliamAvHolmberg/cesium-flight-simulator) - 
