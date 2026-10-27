@@ -530,6 +530,7 @@
 
 ## others 
 
+- [3kh0/slick](https://github.com/3kh0/slick) - The most powerful and versatile Slack client mod
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
