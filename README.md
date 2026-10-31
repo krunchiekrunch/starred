@@ -221,7 +221,7 @@
 - [Cryptkeeper/Minetrack](https://github.com/Cryptkeeper/Minetrack) - Minetrack makes it easy to keep an eye on your favorite Minecraft servers.
 - [RPi-Monitor/RPi-Monitor](https://github.com/RPi-Monitor/RPi-Monitor) - Real time monitoring for embedded devices
 - [tmquan2508/Q-bot-afk](https://github.com/tmquan2508/Q-bot-afk) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
-- [krunchiekrunch/Better-GeoFS-NAV-Map](https://github.com/krunchiekrunch/Better-GeoFS-NAV-Map) - Changes the navigation map of GeoFS to another tile provider
+- [krunchiekrunch/GeoFS-Better-NAV-Map](https://github.com/krunchiekrunch/GeoFS-Better-NAV-Map) - Changes the navigation map of GeoFS to another tile provider
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [krunchiekrunch/GeoFS-Camera-Reset](https://github.com/krunchiekrunch/GeoFS-Camera-Reset) - A QoL plugin I made that resets the camera position when middle mouse button is double clicked
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
@@ -229,7 +229,6 @@
 - [scitor/GeoFS](https://github.com/scitor/GeoFS) - Collection of GeoFS scripts
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [MarkOfUs/Deaflingo](https://github.com/MarkOfUs/Deaflingo) - 
-- [krunchiekrunch/GeoFS-Ad-Remover](https://github.com/krunchiekrunch/GeoFS-Ad-Remover) - Forked from greasyfork
 - [krunchiekrunch/GeoFs-737-Immersion-SFX](https://github.com/krunchiekrunch/GeoFs-737-Immersion-SFX) - Improves the realism of the default 737 with new sounds - Added bookmarklet version
 - [krunchiekrunch/GeoFS-Information-Display](https://github.com/krunchiekrunch/GeoFS-Information-Display) - Displays speed/altitude/heading information
 - [codesardine/jde](https://github.com/codesardine/jde) - Linux desktop environment built with HTML5, CSS, JavaScript and Python.
@@ -414,6 +413,7 @@
 
 ## Shell 
 
+- [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
 - [dustinbowers/tailscale-exit-node](https://github.com/dustinbowers/tailscale-exit-node) - A dockerized Tailscale Exit Node
 - [clockworkpi/uConsole](https://github.com/clockworkpi/uConsole) - This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly inst
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
