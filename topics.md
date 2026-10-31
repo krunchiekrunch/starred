@@ -531,6 +531,7 @@
 
 ## others 
 
+- [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
 - [3kh0/slick](https://github.com/3kh0/slick) - The most powerful and versatile Slack client mod
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
 - [sasodoma/nrf52840-promicro](https://github.com/sasodoma/nrf52840-promicro) - Reverse engineering the nRF52840 ProMicro (SuperMini) board
@@ -737,7 +738,7 @@
 - [user-none/KDocker](https://github.com/user-none/KDocker) - Dock most applications to the system tray
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
 - [tmquan2508/Q-bot-afk](https://github.com/tmquan2508/Q-bot-afk) - If you like this Minecraft bot with chat and commands, please give it a 1-star rating.
-- [krunchiekrunch/Better-GeoFS-NAV-Map](https://github.com/krunchiekrunch/Better-GeoFS-NAV-Map) - Changes the navigation map of GeoFS to another tile provider
+- [krunchiekrunch/GeoFS-Better-NAV-Map](https://github.com/krunchiekrunch/GeoFS-Better-NAV-Map) - Changes the navigation map of GeoFS to another tile provider
 - [benlansdell/flying-overhead](https://github.com/benlansdell/flying-overhead) - Announce flights of anything directly overhead.
 - [krunchiekrunch/GeoFS-Camera-Reset](https://github.com/krunchiekrunch/GeoFS-Camera-Reset) - A QoL plugin I made that resets the camera position when middle mouse button is double clicked
 - [AAGaming00/According-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to-fly.-Its-wings-are-](https://github.com/AAGaming00/According-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to-fly.-Its-wings-are-) - According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees d
@@ -748,7 +749,6 @@
 - [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [MarkOfUs/Deaflingo](https://github.com/MarkOfUs/Deaflingo) - 
-- [krunchiekrunch/GeoFS-Ad-Remover](https://github.com/krunchiekrunch/GeoFS-Ad-Remover) - Forked from greasyfork
 - [krunchiekrunch/GeoFs-737-Immersion-SFX](https://github.com/krunchiekrunch/GeoFs-737-Immersion-SFX) - Improves the realism of the default 737 with new sounds - Added bookmarklet version
 - [krunchiekrunch/GeoFS-Information-Display](https://github.com/krunchiekrunch/GeoFS-Information-Display) - Displays speed/altitude/heading information
 - [vimpop/pcf8574-linux](https://github.com/vimpop/pcf8574-linux) - Interact with i2c on linux
