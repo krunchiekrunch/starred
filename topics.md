@@ -27,6 +27,7 @@
 - [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-science](#data-science)
 - [database](#database)
@@ -82,6 +83,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
+- [osint](#osint)
 - [others](#others)
 - [php](#php)
 - [portfolio](#portfolio)
@@ -99,6 +101,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
@@ -229,6 +232,10 @@
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
+## cybersecurity 
+
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+
 ## data 
 
 - [aramshiva/nomen](https://github.com/aramshiva/nomen) - ✍️ An web viewer of every name
@@ -298,6 +305,7 @@
 - [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
 - [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+- [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A DIY ADS-B display: a Pico W or ESP32 running CircuitPython shows the nearest aircraft on a 16×2 LCD, from adsb.lol or your own dump1090 / readsb receiver.
 - [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 
 ## firebase 
@@ -529,6 +537,10 @@
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 
+## osint 
+
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+
 ## others 
 
 - [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
@@ -580,7 +592,6 @@
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [Neradoc/CircuitPython_mcp23017_Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) - Scan a keyboard with a MCP21017 using an API modelled after the keypad module.
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
-- [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
 - [tinygs/tinyGS](https://github.com/tinygs/tinyGS) - 📡 Open Ground Station Network  🛰
 - [abdalrahimnaser/homeassistant_keybridge](https://github.com/abdalrahimnaser/homeassistant_keybridge) - get yourself a premade keybridge here: https://localdevices.net/products/keybridge-2-0
 - [ndoo/ikoka-handheld-meshtastic-device](https://github.com/ndoo/ikoka-handheld-meshtastic-device) - Ikoka Handheld Meshtastic Device
@@ -815,6 +826,7 @@
 
 ## python 
 
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
@@ -886,6 +898,10 @@
 
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
+
+## security-tools 
+
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 
 ## self-hosted 
 
