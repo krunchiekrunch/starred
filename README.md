@@ -341,6 +341,7 @@
 
 ## Python 
 
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
@@ -354,7 +355,7 @@
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
 - [Neradoc/CircuitPython_mcp23017_Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) - Scan a keyboard with a MCP21017 using an API modelled after the keypad module.
 - [Rickitywrekked/Mesh_Dash](https://github.com/Rickitywrekked/Mesh_Dash) - A python script that connects a computer to a WiFi enabled Meshtastic Node and displays your local node data into easily digested infographics.
-- [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A CircuitPython project that displays the nearest aircraft on a 16×2 LCD using real-time ADS-B data.
+- [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A DIY ADS-B display: a Pico W or ESP32 running CircuitPython shows the nearest aircraft on a 16×2 LCD, from adsb.lol or your own dump1090 / readsb receiver.
 - [mitxela/ddc-oled](https://github.com/mitxela/ddc-oled) - 
 - [krunchiekrunch/krunchboard](https://github.com/krunchiekrunch/krunchboard) - A custom 80% ISO mechanical keyboard powered by a Raspberry Pi Pico with KMK
 - [krunchiekrunch/netpeek](https://github.com/krunchiekrunch/netpeek) - All in One Terminal Network Toolkit
