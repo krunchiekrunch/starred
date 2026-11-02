@@ -504,7 +504,7 @@
 
 ## music 
 
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
 
 ## mysql 
 
@@ -979,7 +979,7 @@
 
 ## ui-design 
 
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
 - [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
 
 ## userscript 
@@ -1014,7 +1014,7 @@
 - [therealdreg/flashrom_build_windows_x64](https://github.com/therealdreg/flashrom_build_windows_x64) - flashrom Dreg's build for Windows x64 & x32 Buzzpirat, raiden_debug_spi, ft2232_spi, serprog, buspirate_spi, dediprog, developerbox, pony_spi, usbblaster_spi, pickit2_spi, ch341a_spi, ch347_spi, digil
 - [aayusharyan/fake-iis](https://github.com/aayusharyan/fake-iis) - Dockerized nginx mimicking Microsoft IIS 8
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 - [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
