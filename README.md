@@ -312,7 +312,7 @@
 - [adafruit/Adafruit-128x64-Monochrome-OLED-PCB](https://github.com/adafruit/Adafruit-128x64-Monochrome-OLED-PCB) - OLED boards!
 - [BassSkydiver/FrameworkSDR](https://github.com/BassSkydiver/FrameworkSDR) - A simple recieve-only SDR for the framework laptop expansion slot.
 - [Albert-S-Briscoe/rtl-sdr-expansion-card](https://github.com/Albert-S-Briscoe/rtl-sdr-expansion-card) - 
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
 - [joeycastillo/The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 - [jamesy0ung/freeelectronicssamples](https://github.com/jamesy0ung/freeelectronicssamples) - Guide on how to get free electronics samples.
 - [chrismyers2000/MeshAdventurer](https://github.com/chrismyers2000/MeshAdventurer) - MeshAdventurer is hardware for Meshtastic with Off-Road use in mind
