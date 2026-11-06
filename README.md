@@ -341,7 +341,7 @@
 
 ## Python 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
 - [PiLiDAR/PiLiDAR](https://github.com/PiLiDAR/PiLiDAR) - an open-source, low-cost DIY 360° LiDAR scanner and panoramic 3D reconstruction system.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
