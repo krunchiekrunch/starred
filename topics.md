@@ -234,7 +234,7 @@
 
 ## cybersecurity 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 
 ## data 
 
@@ -539,7 +539,7 @@
 
 ## osint 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 
 ## others 
 
@@ -826,7 +826,7 @@
 
 ## python 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
@@ -901,7 +901,7 @@
 
 ## security-tools 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,988 sites. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 
 ## self-hosted 
 
