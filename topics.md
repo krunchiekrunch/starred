@@ -59,6 +59,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -394,6 +395,10 @@
 
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 
+## image-processing 
+
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+
 ## ios 
 
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
@@ -543,6 +548,7 @@
 
 ## others 
 
+- [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
 - [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
 - [3kh0/slick](https://github.com/3kh0/slick) - Slick is everything you want in a client mod and nothing you don’t. It’s fast, open source, cross-platform, and fully customizable with plugins and themes.
 - [zygmuntz/goodbooks-10k](https://github.com/zygmuntz/goodbooks-10k) - Ten thousand books, six million ratings
@@ -857,6 +863,7 @@
 
 ## react 
 
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [frer0t/site](https://github.com/frer0t/site) - this is my digital playground where i show off cool stuff i've made, talk about what i know, and share my professional journey. think of it as my little home on the internet where you can learn all ab
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
@@ -884,6 +891,7 @@
 
 ## rust 
 
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
