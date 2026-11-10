@@ -95,6 +95,7 @@
 
 ## C# # 
 
+- [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP) - Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparation. Free, open source Windows app for Bing, Esri and more.
 - [FroggMaster/CreamInstaller](https://github.com/FroggMaster/CreamInstaller) - Automatically finds all installed Steam, Epic and Ubisoft games with their respective DLC-related DLL locations on the user's computer, parses SteamCMD, Steam Store and Epic Games Store for user-selec
 - [MaikelChan/CatPrinterBLE](https://github.com/MaikelChan/CatPrinterBLE) - Experimental implementation of the MXW01 Cat Printers.
 - [nicsure/QuanshengDock](https://github.com/nicsure/QuanshengDock) - Allows the Quansheng UV-K5 radio to be controlled by a PC.
@@ -416,6 +417,7 @@
 
 ## Shell 
 
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
 - [dustinbowers/tailscale-exit-node](https://github.com/dustinbowers/tailscale-exit-node) - A dockerized Tailscale Exit Node
 - [ebastler/marbastlib](https://github.com/ebastler/marbastlib) - A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
