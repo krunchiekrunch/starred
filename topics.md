@@ -83,6 +83,7 @@
 - [nodejs](#nodejs)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
@@ -169,6 +170,7 @@
 
 ## bash 
 
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [Szerwigi1410/brokefetch](https://github.com/Szerwigi1410/brokefetch) - The neofetch but "better"
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
@@ -442,6 +444,7 @@
 
 ## linux 
 
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 - [danielewood/sierra-wireless-modems](https://github.com/danielewood/sierra-wireless-modems) - EM7565/EM7455/MC7455 - Modem Configuration
@@ -501,6 +504,7 @@
 
 ## monitoring 
 
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
 - [g1forfun/Pi-Monitor](https://github.com/g1forfun/Pi-Monitor) - Real-time Raspberry Pi 5 system monitor dashboard (CPU, memory, load, power, I/O) with Flask + Socket.IO
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -538,6 +542,10 @@
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [epranka/descent-app](https://github.com/epranka/descent-app) - Top of descent path calculator. Let's calculate your descent!
 
+## openai 
+
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any "quite terrible" unused capacity directly to the CEO of OpenAI.
+
 ## operating-system 
 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
@@ -548,6 +556,7 @@
 
 ## others 
 
+- [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP) - Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparation. Free, open source Windows app for Bing, Esri and more.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
 - [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
 - [3kh0/slick](https://github.com/3kh0/slick) - The coolest Slack mod. Fast, cross platform, themes and plugins included too!
