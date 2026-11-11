@@ -556,6 +556,7 @@
 
 ## others 
 
+- [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
 - [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP) - Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparation. Free, open source Windows app for Bing, Esri and more.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
 - [tagoslabs/dsi-edp-bridge](https://github.com/tagoslabs/dsi-edp-bridge) - DSI to eDP bridge (TI SN65DSI86) for NanoPi M6: driver installer and device tree
