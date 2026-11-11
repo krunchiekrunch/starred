@@ -342,6 +342,7 @@
 
 ## Python 
 
+- [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
 - [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
