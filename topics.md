@@ -54,6 +54,7 @@
 - [gradle](#gradle)
 - [gui](#gui)
 - [hacking](#hacking)
+- [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
@@ -87,6 +88,7 @@
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
+- [pentesting](#pentesting)
 - [php](#php)
 - [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
@@ -238,6 +240,7 @@
 ## cybersecurity 
 
 - [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 
 ## data 
 
@@ -366,6 +369,10 @@
 ## hacking 
 
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+
+## hacking-tool 
+
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 
 ## hacktoberfest 
 
@@ -556,6 +563,7 @@
 
 ## others 
 
+- [derekhe/msfs2020-map-enhancement](https://github.com/derekhe/msfs2020-map-enhancement) - MSFS2020 Map Enhancement
 - [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
 - [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP) - Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparation. Free, open source Windows app for Bing, Esri and more.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
@@ -570,7 +578,6 @@
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [saoto28/pineapple60](https://github.com/saoto28/pineapple60) - first ergonomic keyboard with Trackpoint
 - [ivars-vids/MXW01-Print](https://github.com/ivars-vids/MXW01-Print) - 
-- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [fishstickle/neighborhoods](https://github.com/fishstickle/neighborhoods) - Neighborhoods scenery generator for XPlane
 - [token2/pico-fido](https://github.com/token2/pico-fido) - Token2 pico-fido with PIN Complexity
 - [geschmit/daedalus-hardware](https://github.com/geschmit/daedalus-hardware) - EDA Files for Daedalus USB Accessory
@@ -811,6 +818,10 @@
 - [ygev/Trojan.JS.YouAreAnIdiot](https://github.com/ygev/Trojan.JS.YouAreAnIdiot) - recreation of the You Are An Idiot virus except i'm not smart enough to recreate its true functionality
 - [krunchiekrunch/Bookmarklet](https://github.com/krunchiekrunch/Bookmarklet) - A collection of bookmarklets!
 
+## pentesting 
+
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
+
 ## php 
 
 - [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
@@ -859,6 +870,7 @@
 
 ## raspberry-pi 
 
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 - [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [nicespoon/retro-adsb-radar](https://github.com/nicespoon/retro-adsb-radar) - Aircraft radar display with retro styling. Visualises real-time aircraft positions and information from an ADS-B feed.
 - [rtl-airband/RTLSDR-Airband](https://github.com/rtl-airband/RTLSDR-Airband) - Multichannel AM/NFM demodulator
@@ -920,6 +932,7 @@
 ## security-tools 
 
 - [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 
 ## self-hosted 
 
