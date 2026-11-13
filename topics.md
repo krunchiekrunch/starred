@@ -563,7 +563,8 @@
 
 ## others 
 
-- [derekhe/msfs2020-map-enhancement](https://github.com/derekhe/msfs2020-map-enhancement) - MSFS2020 Map Enhancement
+- [radioharris/orthostudio-xp](https://github.com/radioharris/orthostudio-xp) - Orthophoto scenery building and streaming for X-Plane 12: a new architecture, faster.
+- [krunchiekrunch/GeoFS-Aircraft-Icon-Replacer](https://github.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer) - Replace aircaft icons in the NAV map for better visiblity
 - [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
 - [flysimdev/OrthoStreamXP](https://github.com/flysimdev/OrthoStreamXP) - Stream real-world aerial photo scenery into X-Plane 12 as you fly: no region downloads, no preparation. Free, open source Windows app for Bing, Esri and more.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
@@ -776,11 +777,9 @@
 - [benlansdell/flying-overhead](https://github.com/benlansdell/flying-overhead) - Announce flights of anything directly overhead.
 - [krunchiekrunch/GeoFS-Camera-Reset](https://github.com/krunchiekrunch/GeoFS-Camera-Reset) - A QoL plugin I made that resets the camera position when middle mouse button is double clicked
 - [AAGaming00/According-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to-fly.-Its-wings-are-](https://github.com/AAGaming00/According-to-all-known-laws-of-aviation-there-is-no-way-a-bee-should-be-able-to-fly.-Its-wings-are-) - According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees d
-- [gefs-plugins/cesium-server](https://github.com/gefs-plugins/cesium-server) - 
 - [scitor/GeoFS](https://github.com/scitor/GeoFS) - Collection of GeoFS scripts
 - [saaiful/socks5](https://github.com/saaiful/socks5) - Setup a SOCKS5 proxy server on an Ubuntu system
 - [sruusk/simflow](https://github.com/sruusk/simflow) - Flight simulation checklist app
-- [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
 - [legendary-gl/legendary](https://github.com/legendary-gl/legendary) - Legendary - A free and open-source replacement for the Epic Games Launcher
 - [MarkOfUs/Deaflingo](https://github.com/MarkOfUs/Deaflingo) - 
 - [krunchiekrunch/GeoFs-737-Immersion-SFX](https://github.com/krunchiekrunch/GeoFs-737-Immersion-SFX) - Improves the realism of the default 737 with new sounds - Added bookmarklet version
