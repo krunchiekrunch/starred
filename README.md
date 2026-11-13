@@ -32,7 +32,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Astro 
@@ -185,6 +184,7 @@
 
 ## JavaScript 
 
+- [krunchiekrunch/GeoFS-Aircraft-Icon-Replacer](https://github.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer) - Replace aircaft icons in the NAV map for better visiblity
 - [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [adhyys07/TermoSlack](https://github.com/adhyys07/TermoSlack) - 
 - [bkanber/Slackadaisical](https://github.com/bkanber/Slackadaisical) - Command line Slack chat client.
@@ -227,7 +227,6 @@
 - [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
 - [krunchiekrunch/GeoFS-Camera-Reset](https://github.com/krunchiekrunch/GeoFS-Camera-Reset) - A QoL plugin I made that resets the camera position when middle mouse button is double clicked
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
-- [gefs-plugins/cesium-server](https://github.com/gefs-plugins/cesium-server) - 
 - [scitor/GeoFS](https://github.com/scitor/GeoFS) - Collection of GeoFS scripts
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [MarkOfUs/Deaflingo](https://github.com/MarkOfUs/Deaflingo) - 
@@ -343,6 +342,7 @@
 
 ## Python 
 
+- [radioharris/orthostudio-xp](https://github.com/radioharris/orthostudio-xp) - Orthophoto scenery building and streaming for X-Plane 12: a new architecture, faster.
 - [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
 - [MlCAH68/TinySDR](https://github.com/MlCAH68/TinySDR) - a small terminal based SDR application
 - [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
@@ -468,17 +468,12 @@
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
-- [BrakingChanges/GEFS-radial-bearing](https://github.com/BrakingChanges/GEFS-radial-bearing) - A project which uses python and userscripts to find radial/bearings for dme arcs and appproaches etc
 - [WorldEditAxe/eaglerproxy](https://github.com/WorldEditAxe/eaglerproxy) - A standalone implemention of the BungeeCord plugin for EaglercraftX, now with online vanilla server support!
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
-
-## Vim Script 
-
-- [derekhe/msfs2020-map-enhancement](https://github.com/derekhe/msfs2020-map-enhancement) - MSFS2020 Map Enhancement
 
 ## Vue 
 
