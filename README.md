@@ -52,6 +52,7 @@
 
 ## C 
 
+- [antirez/sx1262-adsb](https://github.com/antirez/sx1262-adsb) - ADSB receiver abusing the SX1262 LoRa chip capabilities
 - [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXA156, FRDM-MCXC444, FRDM-MCXN236, FRDM-MCXN947) — independent, community project
 - [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [kaduhi/pico-fractional-pll](https://github.com/kaduhi/pico-fractional-pll) - Pseudo Fractional PLL for RP2040
@@ -457,7 +458,7 @@
 - [dominodaosi106/SMD_Challenge](https://github.com/dominodaosi106/SMD_Challenge) - 
 - [jtarrio/radioreceiver](https://github.com/jtarrio/radioreceiver) - A web-based application to listen to radio transmissions from your browser using a cheap USB digital TV tuner
 - [aramshiva/nomen](https://github.com/aramshiva/nomen) - ✍️ An web viewer of every name
-- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
+- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with Next.js 16 and Tailwind CSS
 - [azlan-works/Icarus](https://github.com/azlan-works/Icarus) - A custom meshtastic PCB based on ESP32-S3 and LoRa RA-01SH
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [Affirmatech/MeshSense](https://github.com/Affirmatech/MeshSense) - MeshSense directly connects to your Meshtastic node via Bluetooth or WiFi and continuously provides information to assess the health of your mesh network.
