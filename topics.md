@@ -269,7 +269,7 @@
 
 - [tanishisherewithhh/ImperialsBot](https://github.com/tanishisherewithhh/ImperialsBot) - Minecraft bot using mineflayer to chat spam, safeguard bases and many other utility functions. 3D display using prismarine viewer of the bot
 - [ungive/discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
-- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
+- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with Next.js 16 and Tailwind CSS
 - [krunchiekrunch/discord-spoilers-tool](https://github.com/krunchiekrunch/discord-spoilers-tool) - This tool turns every character in a text to be a spoiler, which makes it ~extra difficult to unspoil!
 - [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
@@ -563,6 +563,7 @@
 
 ## others 
 
+- [antirez/sx1262-adsb](https://github.com/antirez/sx1262-adsb) - ADSB receiver abusing the SX1262 LoRa chip capabilities
 - [radioharris/orthostudio-xp](https://github.com/radioharris/orthostudio-xp) - Orthophoto scenery building and streaming for X-Plane 12: a new architecture, faster.
 - [krunchiekrunch/GeoFS-Aircraft-Icon-Replacer](https://github.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer) - Replace aircaft icons in the NAV map for better visiblity
 - [dronemapper-io/apple-maps-proxy](https://github.com/dronemapper-io/apple-maps-proxy) - A small python Flask service that proxies Apple MapKit satellite tile requests.
@@ -1010,7 +1011,7 @@
 ## ui-design 
 
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify, Apple Music and other apps. 一款为 Spotify、Apple Music 等各种应用提供滚动歌词的软件。
-- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with NextJS 13 and TailwindCSS
+- [igorm84/rediscord](https://github.com/igorm84/rediscord) - Clone of Discord UI remaking components with Next.js 16 and Tailwind CSS
 
 ## userscript 
 
