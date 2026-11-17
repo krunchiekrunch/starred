@@ -239,7 +239,7 @@
 
 ## cybersecurity 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across about 12,000 sites. Every hit re-checked live against made-up usernames, every site tested daily, sealed evidence. Runs on your machine and names itself in every request. pipx in
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 
 ## data 
@@ -559,10 +559,11 @@
 
 ## osint 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across about 12,000 sites. Every hit re-checked live against made-up usernames, every site tested daily, sealed evidence. Runs on your machine and names itself in every request. pipx in
 
 ## others 
 
+- [tholtman1-del/deadboard](https://github.com/tholtman1-del/deadboard) - Board-level repair trainer: diagnose and repair simulated circuit boards on a realistic bench, in the browser.
 - [antirez/sx1262-adsb](https://github.com/antirez/sx1262-adsb) - ADSB receiver abusing the SX1262 LoRa chip capabilities
 - [radioharris/orthostudio-xp](https://github.com/radioharris/orthostudio-xp) - Orthophoto scenery building and streaming for X-Plane 12: a new architecture, faster.
 - [krunchiekrunch/GeoFS-Aircraft-Icon-Replacer](https://github.com/krunchiekrunch/GeoFS-Aircraft-Icon-Replacer) - Replace aircaft icons in the NAV map for better visiblity
@@ -853,7 +854,7 @@
 
 ## python 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across about 12,000 sites. Every hit re-checked live against made-up usernames, every site tested daily, sealed evidence. Runs on your machine and names itself in every request. pipx in
 - [chrisdiana/TinyCity](https://github.com/chrisdiana/TinyCity) - TinyCity is a city simulation game inspired by SimCity for MicroPython
 - [juanpabloaj/slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from command line
 - [PinThePenguinOne/MXW01_Thermal-Printer-Tool](https://github.com/PinThePenguinOne/MXW01_Thermal-Printer-Tool) - A command-line interface (CLI) tool written in Python to control and print images or text to mxw01 thermal printers using the Bluetooth LE protocol.
@@ -931,7 +932,7 @@
 
 ## security-tools 
 
-- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across 11,663 sites, each checked once. Every hit re-checked live against made-up usernames, with identity confidence and sealed evidence. pipx install helix-osint
+- [thalha-a9/helix](https://github.com/thalha-a9/helix) - Username OSINT across about 12,000 sites. Every hit re-checked live against made-up usernames, every site tested daily, sealed evidence. Runs on your machine and names itself in every request. pipx in
 - [7h30th3r0n3/Raspyjack](https://github.com/7h30th3r0n3/Raspyjack) - Small offensive network toolkit for Raspberry Pi (+ Waveshare 1.44″ LCD HAT) and Cardputer Zero inspired by pager and sharkjack fonctionnalities.  For redteam and educational purposes only.
 
 ## self-hosted 
