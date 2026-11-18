@@ -563,6 +563,7 @@
 
 ## others 
 
+- [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
 - [tholtman1-del/deadboard](https://github.com/tholtman1-del/deadboard) - Board-level repair trainer: diagnose and repair simulated circuit boards on a realistic bench, in the browser.
 - [antirez/sx1262-adsb](https://github.com/antirez/sx1262-adsb) - ADSB receiver abusing the SX1262 LoRa chip capabilities
 - [radioharris/orthostudio-xp](https://github.com/radioharris/orthostudio-xp) - Orthophoto scenery building and streaming for X-Plane 12: a new architecture, faster.
