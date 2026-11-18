@@ -52,6 +52,7 @@
 
 ## C 
 
+- [espkvm/espkvm](https://github.com/espkvm/espkvm) - IP-KVM on the ESP32-P4: HDMI capture, USB keyboard and mouse, and a browser console over HTTPS
 - [antirez/sx1262-adsb](https://github.com/antirez/sx1262-adsb) - ADSB receiver abusing the SX1262 LoRa chip capabilities
 - [teddokano/mcx-arduino-core](https://github.com/teddokano/mcx-arduino-core) - Arduino board support package for NXP FRDM MCX Series boards (FRDM-MCXA153, FRDM-MCXA156, FRDM-MCXC444, FRDM-MCXN236, FRDM-MCXN947) — independent, community project
 - [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
