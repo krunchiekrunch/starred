@@ -112,6 +112,7 @@
 - [shell](#shell)
 - [software](#software)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
@@ -967,6 +968,10 @@
 ## sqlite 
 
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
+
+## static-site-generator 
+
+- [chriskthomas/linkfree-generator](https://github.com/chriskthomas/linkfree-generator) - A simple, free, open-source, and self-hosted alternative to linktree
 
 ## svelte 
 
