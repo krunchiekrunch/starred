@@ -311,7 +311,7 @@
 
 - [agamrossen/VolAnti](https://github.com/agamrossen/VolAnti) - Open-source acoustic drone detection. It hears the propellers, not the radio, so it works against fibre-optic FPV aircraft that emit no signal at all.
 - [jmdmahdi/ESP32-USB-TO-BLE](https://github.com/jmdmahdi/ESP32-USB-TO-BLE) - This project involves the creation of a Bluetooth adapter using an ESP32, enabling wireless connectivity for USB keyboards and mice. By leveraging the ESP32's capabilities, users can effortlessly conn
-- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome, with HDMI-CEC. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 - [TheFilipcom4607/ADSBnear](https://github.com/TheFilipcom4607/ADSBnear) - A DIY ADS-B display: a Pico W or ESP32 running CircuitPython shows the nearest aircraft on a 16×2 LCD, from adsb.lol or your own dump1090 / readsb receiver.
 - [risinek/esp32-wifi-penetration-tool](https://github.com/risinek/esp32-wifi-penetration-tool) - Exploring possibilities of ESP32 platform to attack on nearby Wi-Fi networks.
 
@@ -389,7 +389,7 @@
 ## home-assistant 
 
 - [allangood/rtlamr2mqtt](https://github.com/allangood/rtlamr2mqtt) - Docker container to send rtlamr readings to a mqtt broker
-- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome, with HDMI-CEC. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 
 ## html 
 
@@ -415,7 +415,7 @@
 
 ## iot 
 
-- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome. 2 inputs, 1 output, 4K@60Hz, fully local, open source
+- [guimpt/iot_hdmi_mux](https://github.com/guimpt/iot_hdmi_mux) - WiFi HDMI switch for Home Assistant and ESPHome, with HDMI-CEC. 2 inputs, 1 output, 4K@60Hz, fully local, open source
 
 ## java 
 
