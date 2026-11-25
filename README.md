@@ -417,6 +417,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
 - [FabricSoul/gitfetch](https://github.com/FabricSoul/gitfetch) - A command-line GitHub contribution visualization tool written in Rust inspired by Neofetch
+- [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
 ## Shell 
@@ -473,7 +474,6 @@
 - [zyplos/myimages.zip](https://github.com/zyplos/myimages.zip) - an online mockup of the 7zip ui where you can find my favorite images
 - [WorldEditAxe/eaglerproxy](https://github.com/WorldEditAxe/eaglerproxy) - A standalone implemention of the BungeeCord plugin for EaglercraftX, now with online vanilla server support!
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
-- [gorilla-devs/GDLauncher-Carbon](https://github.com/gorilla-devs/GDLauncher-Carbon) - GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pmndrs/racing-game](https://github.com/pmndrs/racing-game) - 🏎 Open source racing game developed by everyone willing
 - [Offroaders123/Smart-Text-Editor](https://github.com/Offroaders123/Smart-Text-Editor) - The text editor that requires only a browser and a keyboard!
