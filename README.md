@@ -409,6 +409,7 @@
 
 ## Rust 
 
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [austin-weeks/miasma](https://github.com/austin-weeks/miasma) - Trap AI web scrapers in an endless poison pit.
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
@@ -453,7 +454,6 @@
 ## TypeScript 
 
 - [tholtman1-del/deadboard](https://github.com/tholtman1-del/deadboard) - Board-level repair trainer: diagnose and repair simulated circuit boards on a realistic bench, in the browser.
-- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [3kh0/slick](https://github.com/3kh0/slick) - The coolest Slack mod. Fast, cross platform, themes and plugins included too!
 - [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [WilliamAvHolmberg/glenn-explore](https://github.com/WilliamAvHolmberg/glenn-explore) - A 3D multiplayer driving game - Built with Mapbox, Three.js, and .NET SignalR -Just pure vibes and endless roads to discover
